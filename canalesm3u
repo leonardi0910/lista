@@ -1,22 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,MI VIDEO1
-https://www.youtube.com/embed/i2dNoU3063M
-
-#EXTINF:-1, tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="NOTICIAS", Deum3u8che Welle Latino | SD www.achoAPPS.com
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qmFK5y8.gif" group-title="CANAIS INTERNACIONAIS", ARG:CANAL PROVINCIAL SD
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: CANAL 10
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: MULTIMEDIOS MONTERREY 1
-http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: MULTIMEDIOS MONTERREY 2
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="CANAIS INTERNACIONAIS", PER:  TV PERU SD
 http://cdnh4.iblups.com/hls/irtp.m3u8
@@ -24,7 +12,7 @@ http://cdnh4.iblups.com/hls/irtp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="CANAIS INTERNACIONAIS", PER: OVACION SD
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Telesur" tvg-logo="https://i.imgur.com/6euqurz.png?1" group-title="CANAIS INTERNACIONAIS", VEN: TV TELESUR
+#EXTINF:-1 tvg-id="TV Telesur" tvg-logo="https://i.imgur.com/6euqurz.png?1" group-title="CANALES INTERNACIONALES", VEN: TV TELESUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
 
 #EXTINF:0group-title="TV DESENHOS",ITU TV
@@ -32,9 +20,6 @@ http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
 
 #EXTINF:0, TV BRASIL - REDE MINAS (MG) HD
 http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logoicona.png/200px-Logoicona.png" group-title="ITALY",Studio 100 Puglia (Opt-1)
-http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8
 
 #EXTINF:0,TICAVISION
 #EXTGRP:unsorted
@@ -68,10 +53,6 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
 #EXTGRP:unsorted
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 
-#EXTINF:0,PequeRadio TV
-#EXTGRP:unsorted
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-
 #EXTINF:0,Frecuencia Musical (Opt-1)
 #EXTGRP:unsorted
 https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
@@ -79,6 +60,8 @@ https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
 #EXTINF:0,Telemusica
 #EXTGRP:unsorted
 http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg", Colombia
 
 #EXTINF:0,Amordiscos TV
 #EXTGRP:unsorted
@@ -90,10 +73,6 @@ http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 
 #EXTINF:-1,COLOMBIA:Canal Capital HD www.achoapps.com
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-
-#EXTINF:0,Canal Doce
-#EXTGRP:unsorted
-http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
 
 #EXTINF:0,Red Mas
 #EXTGRP:unsorted
@@ -115,12 +94,22 @@ http://api.new.livestream.com/accounts/1015476/events/7158511/live.m3u8
 #EXTGRP:unsorted
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
 
+#EXTINF: -1 tvg-logo = "https://cdn.colombia.com/canales/telepacifico-3309.jpg" group-title = "Colombia", Telepacífico
+https://livecdn.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b1200000.m3u8
+
+#EXTINF: -1 tvg-logo = "http://multicanaltvcali.com/wp-content/uploads/2018/07/multicanal.png" group-title = "Colombia", Multicanal Tv
+https://595b85410a151.streamlock.net/8000/8000/chunklist_w306692932.m3u8
+
+#EXTINF: -1 tvg-logo = "http://cmbcolombia.tv/images/logo-tv.png" group-title = "Colombia", CMB Colombia
+https://liveingesta118.cdnmedia.tv/bethesdalive/smil:live.smil/chunklist_b2000000.m3u8
+
+#EXTINF: 0, Canal CNC Pasto
+#EXTGRP: sin clasificar
+http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
+
 #EXTINF:0,Panamericana TV
 #EXTGRP:unsorted
 https://cdnhd.iblups.com/hls/ptv2.m3u8
-
-#EXTINF:-1,MUSICA:Teleritmo
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:-1,MUSICA:Music Top Argentina www.achoapps.com
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
@@ -140,9 +129,6 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1,NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 
-#EXTINF:-1,CANAL 10 CHETUMAL www.achoapps.com
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-
 #EXTINF:-1,TELEMAX ARG
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
@@ -154,12 +140,6 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
 #EXTINF:-1,EXTREMA TV www.achoapps.com
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1,TELE RITMO
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1,CULTURA:NASA Space Station 2 www.achoapps.com
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1,Videomix:SheepMix
 https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
@@ -173,20 +153,11 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 #EXTINF:-1,CANAL 4
 http://200.115.193.177/live/26hd-720/.m3u8
 
-#EXTINF:-1,ATVHD
-http://85.132.81.184:8080/atv/index.m3u8
-
 #EXTINF:-1,TVN Nicaragua
 http://162.244.81.181:1935/live//Stream1/playlist.m3u8
 
 #EXTINF:-1,Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-
-#EXTINF:-1,Canal 4 Posadas www.achoapps.com
-http://184.154.28.210:1935/canal4/canal4/live.m3u8
-
-#EXTINF:-1,Canal 2 Nicaragua
-http://162.244.81.181:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:-1,Microvision
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
@@ -227,10 +198,7 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF: -1, Canal 4 | SD www.achoapps.com
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
-#EXTINF: -1, wiseplaylistasiptv.com_150
-http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
- 
-#EXTINF: -1, wiseplaylistasiptv.com_250
+#EXTINF: -1, wiseplaylistasiptv.com_250 
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
 #EXTINF: -1, wiseplaylistasiptv.com_5
@@ -254,7 +222,7 @@ http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv
 #EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://www.isv.net/logos/arirangtv.png" group-title = "NOTICIAS MUNDIALES 24/7", Arirang (Opt-1) (KR)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF: -1, wiseplaylistasiptv.com_17
+#EXTINF: -1, wiseplaylistasiptv.com_17 telemusica
 http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
 
 #EXTINF: -1, wiseplaylistasiptv.com_224
@@ -263,60 +231,7 @@ http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
 #EXTINF: -1, wiseplaylistasiptv.com_226
 http://ss6.domint.net:2002/pvv_str/peravia/chunklist_w715033938.m3u8
 
-#EXTINF: -1 tvg-logo = "https://cdn.colombia.com/canales/telepacifico-3309.jpg" group-title = "Colombia", Telepacífico
-https://livecdn.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b1200000.m3u8
 
-#EXTINF: -1 tvg-logo = "http://multicanaltvcali.com/wp-content/uploads/2018/07/multicanal.png" group-title = "Colombia", Multicanal Tv
-https://595b85410a151.streamlock.net/8000/8000/chunklist_w306692932.m3u8
-
-#EXTINF: -1 tvg-logo = "http://cmbcolombia.tv/images/logo-tv.png" group-title = "Colombia", CMB Colombia
-https://liveingesta118.cdnmedia.tv/bethesdalive/smil:live.smil/chunklist_b2000000.m3u8
-
-#EXTINF: 0, Canal CNC Pasto
-#EXTGRP: sin clasificar
-http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
-
-#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Sin categoría", BEIN DEPORTES HD (ES)
-http://f.ok2.se:8000/victor1/victor123/236
-
-#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Sin categoría", BEIN DEPORTES HD (H264)
-http://f.ok2.se:8000/victor1/victor123/38491
- 
-#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Sin categoría", BEIN DEPORTES HD (H265) - NUEVO
-http://f.ok2.se:8000/victor1/victor123/65724
- 
-#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Sin categoría", ESPN HD DEPORTES
-http://f.ok2.se:8000/victor1/victor123/8505
-
-#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Sin categoría", * UNIVISION DEPORTES
-http://f.ok2.se:8000/victor1/victor123/423
-
-#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Sin categoría", * FOX DEPORTES HD (ES)
-http://f.ok2.se:8000/victor1/victor123/436
- 
-#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Sin categoría", FOX DEPORTES (ES)
-http://f.ok2.se:8000/victor1/victor123/237
- 
-#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Sin categoría", FOX SPORTS HD (LATIN AMERICA) (ES)
-http://f.ok2.se:8000/victor1/victor123/39679
- 
-#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Sin categoría", FOX SPORTS 2 HD (LATIN AMERICA) (ES)
-http://f.ok2.se:8000/victor1/victor123/39680
- 
-#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Sin categoría", FOX SPORTS 3 HD (LATIN AMERICA) (ES)
-http://f.ok2.se:8000/victor1/victor123/39681
- 
-#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Sin categoría", ESPN DEPORTES HD (ES)
-http://f.ok2.se:8000/victor1/victor123/238
- 
-#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Sin categoría", GOL TV (ES)
-http://f.ok2.se:8000/victor1/victor123/235
- 
-#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Sin categoría", DIRECTV SPORTS 1 HD (SP)
-http://f.ok2.se:8000/victor1/victor123/64391
- 
-#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Sin categoría", WIN SPORTS (COL)
-http://f.ok2.se:8000/victor1/victor123/15130
 
 #EXTINF:-1 tvg-id="98881" tvg-name="HiperTV" tvg-logo="https://lh3.googleusercontent.com/-Jzepv48lTKg/Xm-zbST5B9I/AAAAAAAAw9c/j5ZlS99NHzghrTZ7O-RHN8wIXHEkMRutgCK8BGAsYHg/s0/2020-03-16.png", HiperTV
 http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
@@ -378,7 +293,11 @@ https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="45129" tvg-name="TV+" tvg-logo="https://lh3.googleusercontent.com/-OyqOBTEx-1E/XyA3AZwIgTI/AAAAAAAA3jQ/aDMZaLOx3mQuXBqjDKAF0X7dxExKFzawACK8BGAsYHg/s0/2020-07-28.png", TV+
 https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://www.tuves.cl/wp-content/themes/tuves/images/canales-infantiles.png", INFANTILES
 
+#EXTINF:0,PequeRadio TV
+#EXTGRP:unsorted
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KIDS LATINO",Cartoon Network | KIDS LATINO
 http://flowfhd.xyz:25461/OhiwX0uU/bi5d5oyhrD/8375
 #EXTINF:0 tvg-id="ext" group-title="KIDS LATINO",Discovery Kids | KIDS LATINO
@@ -402,6 +321,9 @@ http://flowfhd.xyz:25461/OhiwX0uU/bi5d5oyhrD/8512
 #EXTINF:0 tvg-id="ext" group-title="KIDS LATINO",BABY FIRST | KIDS LATINO
 http://flowfhd.xyz:25461/OhiwX0uU/bi5d5oyhrD/11418
 
+#EXTINF:-1 tvg-logo="https://www.archivo007.com/foros007/uploads/editor/8n/2gsfqopg7azz.jpg", peliculas
+
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",A&E ESP
 http://ytv.plus:25461/eloy/1234/1876
 
@@ -420,14 +342,8 @@ http://ytv.plus:25461/eloy/1234/91
 #EXTINF:0 tvg-id="ext" group-title="Channels",De Película Clásico ESP
 http://ytv.plus:25461/eloy/1234/92
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Universo ESP
-http://ytv.plus:25461/eloy/1234/217
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",TNT ESP
 http://ytv.plus:25461/eloy/1234/1725
-
-#EXTINF:-1,62 | TNT Lat.
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/113627
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",STUDIO UNIVERSAL ESP
 http://ytv.plus:25461/eloy/1234/1774
@@ -474,6 +390,9 @@ http://ytv.plus:25461/eloy/1234/1798
 #EXTINF:0 tvg-id="ext" group-title="Channels",FXM ESP
 http://ytv.plus:25461/eloy/1234/1799
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",FX ESP
+http://ytv.plus:25461/eloy/1234/1863
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",CINEMAX ESP
 http://ytv.plus:25461/eloy/1234/1811
 
@@ -491,6 +410,9 @@ http://ytv.plus:25461/eloy/1234/1845
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",TNT SERIES ESP
 http://ytv.plus:25461/eloy/1234/1843
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL FOX ESP
+http://ytv.plus:25461/eloy/1234/1873
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",TRUTV ESP
 http://ytv.plus:25461/eloy/1234/1841
@@ -528,6 +450,8 @@ http://ytv.plus:25461/eloy/1234/2426
 #EXTINF:0 tvg-id="ext" group-title="Channels",HBO 2 ESP
 http://ytv.plus:25461/eloy/1234/2401
 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Oo70qoHiw0M/Wdewfh1GaCI/AAAAAAAAH9U/3JzopBYI7E0NWy5S4XPxbPvfSyo_eUp2wCLcBGAs/s1600/logo.png", VARIEDADES
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",ESTRELLATV ESP
 http://ytv.plus:25461/eloy/1234/1867
 
@@ -540,8 +464,8 @@ http://ytv.plus:25461/eloy/1234/1872
 #EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO LATINO",Distrito Comedia | ENTRETENIMIENTO LATINO
 http://flowfhd.xyz:25461/OhiwX0uU/bi5d5oyhrD/8397
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL FOX ESP
-http://ytv.plus:25461/eloy/1234/1873
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Universo ESP
+http://ytv.plus:25461/eloy/1234/217
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",NATGEO WILD ESP
 http://ytv.plus:25461/eloy/1234/1877
@@ -578,9 +502,6 @@ http://ytv.plus:25461/eloy/1234/1889
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",ANIMAL PLANET ESP
 http://ytv.plus:25461/eloy/1234/1890
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",FX ESP
-http://ytv.plus:25461/eloy/1234/1863
 
 #EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO LATINO",E! | ENTRETENIMIENTO LATINO
 http://flowfhd.xyz:25461/OhiwX0uU/bi5d5oyhrD/8398
@@ -636,172 +557,18 @@ http://flowfhd.xyz:25461/OhiwX0uU/bi5d5oyhrD/8442
 #EXTINF:0 tvg-id="ext" group-title="CINE LATINO",Starz | CINE LATINO
 http://flowfhd.xyz:25461/OhiwX0uU/bi5d5oyhrD/8445
 
+#EXTINF:-1 tvg-id="112087" tvg-name="Interna TV" tvg-logo="https://lh3.googleusercontent.com/-DyIuKRtpRK8/X2uZ3GpxnuI/AAAAAAAA50w/YmfriUDnYf0_mJ3yvWS7VWoUcbOXBfsygCK8BGAsYHg/s0/2020-09-23.jpg", Interna TV
+http://fbktv.guanatozfm.net:1935/fbktv/envivo/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,---------------ECUADOR--------------------
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/123824
+#EXTINF:-1 tvg-id="109803" tvg-name="Jalisco TV" tvg-logo="https://lh3.googleusercontent.com/-nn1lsii9bB8/Xz53INdkzcI/AAAAAAAA4sI/5JLfZ5qEUwMl49Kc6fIbR-kAcA-RiN-AwCK8BGAsYHg/s0/2020-08-20.png", Jalisco TV
+https://5b59c7a47236a.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,02 | ECUAVISA 
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/81352
-#EXTINF:-1,03 | ECUAVISA HD
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/81351
-#EXTINF:-1,04 | ECUAVISA
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/81350
-#EXTINF:-1,07 | TELEAMAZONAS (QUITO)
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/81389
-#EXTINF:-1,11 | GAMAVISION 
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/81355
-#EXTINF:-1,07 | AZ CINEMA MX
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/108730
-#EXTINF:-1,13 | DW MX
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/108766
-#EXTINF:-1,14 | EUROPA EUROPA MX
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/79319
-#EXTINF:-1,16 | FILM&ARTS Lat.
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/79322
+#EXTINF:-1 tvg-id="109725" tvg-name="Quiero TV" tvg-logo="https://lh3.googleusercontent.com/-5vFCoh_T-SI/XznP4TlWXeI/AAAAAAAA4jQ/V4CUlWj4BigMkdRO8nqov-4i2KIV80xUACK8BGAsYHg/s0/2020-08-16.jpg", Quiero TV
+https://quierotvlive.tk/httplive/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,79 | VH1
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/123216
-#EXTINF:-1,80 | VH1 MegaHits
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/123217
-#EXTINF:-1,81 | CNN en Español
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/123218
-#EXTINF:-1,82 | CNN Internacional
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/123219
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="PERU", Central TV | SD
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
-#EXTINF:-1,87 | Much Music
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/123224
-#EXTINF:-1,88 | Telemundo Internacional
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/123225
-#EXTINF:-1,89 | TVE
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/123226
-#EXTINF:-1,90 | Rai Italia
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/123227
-
-#EXTINF:-1,04 | FOX SPORTS PREMIUM HD 
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/113793
-#EXTINF:-1,05 | TNT SPORTS FHD
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/113794
-#EXTINF:-1,32 | ESPN 3 MX HD
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/113821
-
-#EXTINF:-1,02 | WIN SPORTS FHD Lat.
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/81666
-
-#EXTINF:-1,----- INFANTILES -------
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/123870
-
-#EXTINF:-1,09 | DISNEY JR. HD Lat.
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/78904 
-#EXTINF:-1,15 | NICK 2 HD Lat.
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/78915
-#EXTINF:-1,17 | ZOOMOO
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/78927
-#EXTINF:-1,23 | DISNEY XD MX
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/82420
-#EXTINF:-1,22 | DISNEY JR. MX 
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/82419
-#EXTINF:-1,04 | Cartoon Network (Low)
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/82707
-
-#EXTINF:-1,-----VARIEDADES - NOVELAS------
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/123871
-
-#EXTINF:-1,05 | TELEMUNDO HD
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/80702
-
-#EXTINF:-1,07 | AZTECA CLICK MX
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/82391
-
-#EXTINF:-1,08 | AZTECA CORAZON
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/82392
-
-#EXTINF:-1,14 | TELENOVELAS HD MX
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/82487
-
-#EXTINF:-1,21 | ANTENA3 HD MX
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/108727
-
-#EXTINF:-1,06 | Cinemax Low
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/82709
-
-#EXTINF:-1,11 | HTV
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/86432
-
-#EXTINF:-1,27 | Telehit Plus HD
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/87689
-
-
-#EXTINF:-1,----- COLOMBIA -----
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/123913
-
-#EXTINF:-1,01 | CABLENOTICIAS
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/42586
-#EXTINF:-1,02 | CANAL UNO 
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/42594
-#EXTINF:-1,03 | CARACOL 
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/42577
-#EXTINF:-1,04 | CARACOL. 
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/42596
-#EXTINF:-1,05 | CITY TV
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/42575
-#EXTINF:-1,06 | NTN24
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/42572
-#EXTINF:-1,07 | RCN
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/42593
-#EXTINF:-1,08 | Tele Islas
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/42567
-#EXTINF:-1,09 | TELEANTIOQUIA
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/42571
-#EXTINF:-1,10 | TELECAFE
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/42570
-#EXTINF:-1,11 | TELECARIBE
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/42582
-#EXTINF:-1,12 | TELEPACIFICO
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/42580
-#EXTINF:-1,13 | TELEMEDELLIN
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/42583
-#EXTINF:-1,14 | TV AGRO
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/42574
-#EXTINF:-1,15 | CABLENOTICIA
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/109173
-#EXTINF:-1,16 | TELE ISLA 
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/109174
-#EXTINF:-1,17 | TELECAFE 
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/109175
-#EXTINF:-1,18 | NTN 24 HORAS
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/109216
-#EXTINF:-1,19 | NTN 24 HORAS
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/109291
-#EXTINF:-1,20 | RCN HD
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/42589
-#EXTINF:-1,21 | CARACOL HD
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/42595
-#EXTINF:-1,22 | CARACOL FHD®
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/56697
-#EXTINF:-1,23 | TELECARIBE HD
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/123967
-#EXTINF:-1,------ LIGA BET PLAY COLOMBIA ----
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/123914
-#EXTINF:-1,01 | WIN SPORTS 
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/71695
-#EXTINF:-1,02 | WIN SPORTS +
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/100812
-#EXTINF:-1,03 | WIN SPORTS HD
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/71399
-#EXTINF:-1,04 | WIN SPORTS FHD
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/64023
-#EXTINF:-1,05 | WIN SPORTS + (Low)
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/123583
-#EXTINF:-1,06 | WIN SPORTS + HD
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/98413
-
-
-#EXTINF:-1,10 | PANAMERICANA 
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/82301
-#EXTINF:-1,31 | LATINA FHD
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/82293
-#EXTINF:-1,03 | TLT
-http://ecuaplaytv.com:8000/ADIOSECUAPLAY/QEY1YJE/109292
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="Entretenimiento", Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 
