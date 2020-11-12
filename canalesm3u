@@ -61,8 +61,8 @@ http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg", Colombia
 
-#EXTINF:-1 tvg-id="" tvg-name="LA376:RCN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA376TELEMUSICA.png" group-title="Latino",LA376:RCN
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58925
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CARACOL TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/66556
 
 #EXTINF:0,Amordiscos TV
 #EXTGRP:unsorted
@@ -108,6 +108,9 @@ https://liveingesta118.cdnmedia.tv/bethesdalive/smil:live.smil/chunklist_b200000
 #EXTGRP: sin clasificar
 http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BeF08XL.png" group-title="COLOMBIA",UAO Play
+https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
+
 #EXTINF:-1,MUSICA:Music Top Argentina www.achoapps.com
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
 
@@ -135,12 +138,6 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1,EXTREMA TV www.achoapps.com
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1,Videomix:SheepMix
-https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
-
-#EXTINF:-1,Videomix:Yearmix2009 www.achoapps.com
-https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
-
 #EXTINF:-1,CANAL 2
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 
@@ -155,9 +152,6 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
 #EXTINF:-1,CDM
 http://live247tv.net:1935/marcos536/marcos536/chunklist_w704457421.m3u8
-
-#EXTINF:-1,MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:-1,Canal Once www.achoapps.com
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
@@ -281,391 +275,410 @@ https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8?PlaylistM3
 
 #EXTINF:-1 tvg-logo="https://www.tuves.cl/wp-content/themes/tuves/images/canales-infantiles.png", INFANTILES
 
-#EXTINF:-1 tvg-id="" tvg-name="LA013:Boomerang" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA013Boomerang.png" group-title="Latino",LA013:Boomerang
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58044
-
-#EXTINF:-1 tvg-id="" tvg-name="LA018:Carton Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA018CartonNetwork.png" group-title="Latino",LA018:Carton Network
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58039
-
-#EXTINF:-1 tvg-id="" tvg-name="LA031:Discovery Kids" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA031DiscoveryKids.png" group-title="Latino",LA031:Discovery Kids
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58026
-
-#EXTINF:-1 tvg-id="" tvg-name="LA037:Disney LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA037DisneyLA.png" group-title="Latino",LA037:Disney LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58020
-#EXTINF:-1 tvg-id="" tvg-name="LA038:Disney Junior LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA038DisneyJuniorLA.png" group-title="Latino",LA038:Disney Junior LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58019
-#EXTINF:-1 tvg-id="" tvg-name="LA039:Disney XD LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA039DisneyXDLA.png" group-title="Latino",LA039:Disney XD LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58018
-#EXTINF:-1 tvg-id="" tvg-name="LA096:Canal Disney" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA096CanalDisney.png" group-title="Latino",LA096:Canal Disney
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57961
-#EXTINF:-1 tvg-id="" tvg-name="LA103:Tooncast" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA103Tooncast.png" group-title="Latino",LA103:Tooncast
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57954
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY KIDS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92602
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISNEY CHANNEL
+http://mains.vip:2086/craigg/1Lurn7m3F1/92597
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISNEY JUNIOR
+http://mains.vip:2086/craigg/1Lurn7m3F1/92596
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISNEY XD
+http://mains.vip:2086/craigg/1Lurn7m3F1/98778
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : BOOMERANG
+http://mains.vip:2086/craigg/1Lurn7m3F1/92619
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CARTOON NETWORK
+http://mains.vip:2086/craigg/1Lurn7m3F1/98775
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : DISNEY JR
+http://mains.vip:2086/craigg/1Lurn7m3F1/67154
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NICK 2
+http://mains.vip:2086/craigg/1Lurn7m3F1/92549
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NICK JR
+http://mains.vip:2086/craigg/1Lurn7m3F1/92548
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NICK TOONS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92547
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NICKELODEON
+http://mains.vip:2086/craigg/1Lurn7m3F1/92546
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TOONCAST
+http://mains.vip:2086/craigg/1Lurn7m3F1/92482
 
 #EXTINF:0,PequeRadio TV
 #EXTGRP:unsorted
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.archivo007.com/foros007/uploads/editor/8n/2gsfqopg7azz.jpg", peliculas
-
-#EXTINF:-1 tvg-id="" tvg-name="LA051:Fox Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA051FoxSeries.png" group-title="Latino",LA051:Fox Series
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58006
-#EXTINF:-1 tvg-id="" tvg-name="LA052:Fox Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA052FoxAction.png" group-title="Latino",LA052:Fox Action
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58005
-#EXTINF:-1 tvg-id="" tvg-name="LA053:Fox Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA053FoxCinema.png" group-title="Latino",LA053:Fox Cinema
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58004
-
-#EXTINF:-1 tvg-id="" tvg-name="LA055:Fox LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA055FoxLA.png" group-title="Latino",LA055:Fox LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58002
-
-#EXTINF:-1 tvg-id="" tvg-name="LA056:Fox Life" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA056FoxLife.png" group-title="Latino",LA056:Fox Life
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58001
-#EXTINF:-1 tvg-id="" tvg-name="LA057:Fox Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA057FoxMovies.png" group-title="Latino",LA057:Fox Movies
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58000
-
-#EXTINF:-1 tvg-id="" tvg-name="LA001:A&E LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA001A&ELA.png" group-title="Latino",LA001:A&E LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58056
-
-#EXTINF:-1 tvg-id="" tvg-name="LA002:AMC LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA002AMCLA.png" group-title="Latino",LA002:AMC LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58055
-
-#EXTINF:-1 tvg-id="" tvg-name="LA004:AXN LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA004AXNLA.png" group-title="Latino",LA004:AXN LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58053
-
-EXTINF:-1 tvg-id="" tvg-name="LA020:Cine Canal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA020CineCanal.png" group-title="Latino",LA020:Cine Canal
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58037
-#EXTINF:-1 tvg-id="" tvg-name="LA021:Cine Latino" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA021CineLatino.png" group-title="Latino",LA021:Cine Latino
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58036
-#EXTINF:-1 tvg-id="" tvg-name="LA022:Cine Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA022CineMax.png" group-title="Latino",LA022:Cine Max
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58035
-
-#EXTINF:-1 tvg-id="" tvg-name="LA025:Comedy Central" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA025ComedyCentral.png" group-title="Latino",LA025:Comedy Central
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58032
-#EXTINF:-1 tvg-id="" tvg-name="LA026:De Pelicula" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA026DePelicula.png" group-title="Latino",LA026:De Pelicula
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58031
-#EXTINF:-1 tvg-id="" tvg-name="LA036:Universal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA036Universal.png" group-title="Latino",LA036:Universal
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58021
-#EXTINF:-1 tvg-id="" tvg-name="LA048:Film And Arts" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA048FilmAndArts.png" group-title="Latino",LA048:Film And Arts
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58009
-
-#EXTINF:-1 tvg-id="" tvg-name="LA062:Warner" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA062Warner.png" group-title="Latino",LA062:Warner
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57995
-#EXTINF:-1 tvg-id="" tvg-name="LA063:Glitz" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA063Glitz.png" group-title="Latino",LA063:Glitz
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57994
-#EXTINF:-1 tvg-id="" tvg-name="LA064:Golden Edge" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA064GoldenEdge.png" group-title="Latino",LA064:Golden Edge
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57993
-#EXTINF:-1 tvg-id="" tvg-name="LA065:Golden" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA065Golden.png" group-title="Latino",LA065:Golden
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57992
-
-#EXTINF:-1 tvg-id="" tvg-name="LA067:HBO LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA067HBOLA.png" group-title="Latino",LA067:HBO LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57990
-#EXTINF:-1 tvg-id="" tvg-name="LA068:HBO 2 LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA068HBO2LA.png" group-title="Latino",LA068:HBO 2 LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57989
-#EXTINF:-1 tvg-id="" tvg-name="LA069:HBO Family LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA069HBOFamilyLA.png" group-title="Latino",LA069:HBO Family LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57988
-#EXTINF:-1 tvg-id="" tvg-name="LA070:HBO Signature LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA070HBOSignatureLA.png" group-title="Latino",LA070:HBO Signature LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57987
-#EXTINF:-1 tvg-id="" tvg-name="LA080:FXM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA080FXM.png" group-title="Latino",LA080:FXM
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57977
-#EXTINF:-1 tvg-id="" tvg-name="LA086:SONY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA086SONY.png" group-title="Latino",LA086:SONY
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57971
-#EXTINF:-1 tvg-id="" tvg-name="LA087:Space LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA087SpaceLA.png" group-title="Latino",LA087:Space LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57970
-#EXTINF:-1 tvg-id="" tvg-name="LA088:Studio Universal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA088StudioUniversal.png" group-title="Latino",LA088:Studio Universal
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57969
-#EXTINF:-1 tvg-id="" tvg-name="LA089:SYFY LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA089SYFYLA.png" group-title="Latino",LA089:SYFY LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57968
-#EXTINF:-1 tvg-id="" tvg-name="LA090:TBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA090TBS.png" group-title="Latino",LA090:TBS
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57967
-#EXTINF:-1 tvg-id="" tvg-name="LA091:TCM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA091TCM.png" group-title="Latino",LA091:TCM
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57966
-#EXTINF:-1 tvg-id="" tvg-name="LA092:Unicable" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA092Unicable.png" group-title="Latino",LA092:Unicable
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57965
-#EXTINF:-1 tvg-id="" tvg-name="LA180:Cinemoi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA180Cinemoi.png" group-title="Latino",LA180:Cinemoi
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/59121
-#EXTINF:-1 tvg-id="" tvg-name="LA199:Cinema 30 PPV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA199Cinema30PPV.png" group-title="Latino",LA199:Cinema 30 PPV
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/59102
-#EXTINF:-1 tvg-id="" tvg-name="LA234:CINEMA PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA234CINEMAPLUS.png" group-title="Latino",LA234:CINEMA PLUS
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/59067
-#EXTINF:-1 tvg-id="" tvg-name="LA235:Cinemax Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA235CinemaxActionHD.png" group-title="Latino",LA235:Cinemax Action HD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/59066
-#EXTINF:-1 tvg-id="" tvg-name="LA324:Fox Premium Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA324FoxPremiumActionHD.png" group-title="Latino",LA324:Fox Premium Action HD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58977
-#EXTINF:-1 tvg-id="" tvg-name="LA354:HBO Plus FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA354HBOPlusFHD.png" group-title="Latino",LA354:HBO Plus FHD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58947
-#EXTINF:-1 tvg-id="" tvg-name="LA355:HBO Plus West HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA355HBOPlusWestHD.png" group-title="Latino",LA355:HBO Plus West HD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58946
-#EXTINF:-1 tvg-id="" tvg-name="LA356:HBO East HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA356HBOEastHD.png" group-title="Latino",LA356:HBO East HD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58945
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Oo70qoHiw0M/Wdewfh1GaCI/AAAAAAAAH9U/3JzopBYI7E0NWy5S4XPxbPvfSyo_eUp2wCLcBGAs/s1600/logo.png", VARIEDADES
-
-#EXTINF:-1 tvg-id="" tvg-name="LA097:Tele Visa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA097TeleVisa.png" group-title="Latino",LA097:Tele Visa
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57960
-#EXTINF:-1 tvg-id="" tvg-name="LA098:Paramount" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA098Paramount.png" group-title="Latino",LA098:Paramount
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57959
-#EXTINF:-1 tvg-id="" tvg-name="LA099:TLC LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA099TLCLA.png" group-title="Latino",LA099:TLC LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57958
-#EXTINF:-1 tvg-id="" tvg-name="LA100:TLnovelas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA100TLnovelas.png" group-title="Latino",LA100:TLnovelas
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57957
-#EXTINF:-1 tvg-id="" tvg-name="LA075:Lifetime  LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA075LifetimeLA.png" group-title="Latino",LA075:Lifetime  LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57982
-#EXTINF:-1 tvg-id="" tvg-name="LA076:MI Musica" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA076MIMusica.png" group-title="Latino",LA076:MI Musica
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57981
-
-#EXTINF:-1 tvg-id="" tvg-name="LA072:HOLA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA072HOLATV.png" group-title="Latino",LA072:HOLA TV
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57985
-#EXTINF:-1 tvg-id="" tvg-name="LA073:I-SAT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA073I-SAT.png" group-title="Latino",LA073:I-SAT
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57984
-
-#EXTINF:-1 tvg-id="" tvg-name="LA050:Univision" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA050Univision.png" group-title="Latino",LA050:Univision
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58007
-#EXTINF:-1 tvg-id="" tvg-name="LA006:Az Click" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA006AzClick.png" group-title="Latino",LA006:Az Click
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58051
-#EXTINF:-1 tvg-id="" tvg-name="LA007:Azteca 13" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA007Azteca13.png" group-title="Latino",LA007:Azteca 13
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58050
-#EXTINF:-1 tvg-id="" tvg-name="LA008:Azteca 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA008Azteca7.png" group-title="Latino",LA008:Azteca 7
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58049
-#EXTINF:-1 tvg-id="" tvg-name="LA009:Azteca Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA009AztecaCinema.png" group-title="Latino",LA009:Azteca Cinema
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58048
-#EXTINF:-1 tvg-id="" tvg-name="LA010:Azteca Mundo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA010AztecaMundo.png" group-title="Latino",LA010:Azteca Mundo
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58047
-#EXTINF:-1 tvg-id="" tvg-name="LA011:Azteca Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA011AztecaNoticias.png" group-title="Latino",LA011:Azteca Noticias
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58046
-#EXTINF:-1 tvg-id="" tvg-name="LA012:Bandamax" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA012Bandamax.png" group-title="Latino",LA012:Bandamax
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58045
-#EXTINF:-1 tvg-id="" tvg-name="LA014:Canal 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA014Canal11.png" group-title="Latino",LA014:Canal 11
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58043
-#EXTINF:-1 tvg-id="" tvg-name="LA015:Canal 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA015Canal5.png" group-title="Latino",LA015:Canal 5
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58042
-#EXTINF:-1 tvg-id="" tvg-name="LA016:Canal De Las Estrellas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA016CanalDeLasEstrellas.png" group-title="Latino",LA016:Canal De Las Estrellas
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58041
-#EXTINF:-1 tvg-id="" tvg-name="LA017:Caracol" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA017Caracol.png" group-title="Latino",LA017:Caracol
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58040
-#EXTINF:-1 tvg-id="" tvg-name="LA040:Distrito Comedia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA040DistritoComedia.png" group-title="Latino",LA040:Distrito Comedia
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58017
-#EXTINF:-1 tvg-id="" tvg-name="LA044:EL Gourmet" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA044ELGourmet.png" group-title="Latino",LA044:EL Gourmet
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58013
-
-
-#EXTINF:-1 tvg-id="112087" tvg-name="Interna TV" tvg-logo="https://lh3.googleusercontent.com/-DyIuKRtpRK8/X2uZ3GpxnuI/AAAAAAAA50w/YmfriUDnYf0_mJ3yvWS7VWoUcbOXBfsygCK8BGAsYHg/s0/2020-09-23.jpg", Interna TV
-http://fbktv.guanatozfm.net:1935/fbktv/envivo/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="109803" tvg-name="Jalisco TV" tvg-logo="https://lh3.googleusercontent.com/-nn1lsii9bB8/Xz53INdkzcI/AAAAAAAA4sI/5JLfZ5qEUwMl49Kc6fIbR-kAcA-RiN-AwCK8BGAsYHg/s0/2020-08-20.png", Jalisco TV
-https://5b59c7a47236a.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="109725" tvg-name="Quiero TV" tvg-logo="https://lh3.googleusercontent.com/-5vFCoh_T-SI/XznP4TlWXeI/AAAAAAAA4jQ/V4CUlWj4BigMkdRO8nqov-4i2KIV80xUACK8BGAsYHg/s0/2020-08-16.jpg", Quiero TV
-https://quierotvlive.tk/httplive/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="PERU", Central TV | SD
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tutorialesjm19.files.wordpress.com/2011/08/deportes.png", DEPORTES
-
-
-#EXTINF:-1 tvg-id="" tvg-name="LA023:Claro Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA023ClaroSports.png" group-title="Latino",LA023:Claro Sports
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58034
-#EXTINF:-1 tvg-id="" tvg-name="LA024:CNN en Espagnol" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA024CNNenEspagnol.png" group-title="Latino",LA024:CNN en Espagnol
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58033
-
-#EXTINF:-1 tvg-id="" tvg-name="LA045:ESPN LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA045ESPNLA.png" group-title="Latino",LA045:ESPN LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58012
-#EXTINF:-1 tvg-id="" tvg-name="LA046:ESPN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA046ESPN2.png" group-title="Latino",LA046:ESPN 2
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58011
-#EXTINF:-1 tvg-id="" tvg-name="LA047:ESPN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA047ESPN3.png" group-title="Latino",LA047:ESPN 3
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58010
-
-#EXTINF:-1 tvg-id="" tvg-name="LA058:Fox Sports 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA058FoxSports1.png" group-title="Latino",LA058:Fox Sports 1
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57999
-#EXTINF:-1 tvg-id="" tvg-name="LA059:Fox Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA059FoxSports2.png" group-title="Latino",LA059:Fox Sports 2
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57998
-#EXTINF:-1 tvg-id="" tvg-name="LA060:Fox Sports 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA060FoxSports3.png" group-title="Latino",LA060:Fox Sports 3
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57997
-#EXTINF:-1 tvg-id="" tvg-name="ARG049:FOX SPORTS HD" tvg-logo="" group-title="Argentina",ARG049:FOX SPORTS HD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/49703
-#EXTINF:-1 tvg-id="" tvg-name="ARG050:FOX SPORTS Premium HD" tvg-logo="" group-title="Argentina",ARG050:FOX SPORTS Premium HD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/49702
-#EXTINF:-1 tvg-id="" tvg-name="LA267:Directv Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA267DirectvSports.png" group-title="Latino",LA267:Directv Sports
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/59034
-#EXTINF:-1 tvg-id="" tvg-name="LA269:Directv Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA269DirectvSports2.png" group-title="Latino",LA269:Directv Sports 2
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/59032
-#EXTINF:-1 tvg-id="" tvg-name="LA304:ESPN PLUS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA304ESPNPLUSHD.png" group-title="Latino",LA304:ESPN PLUS HD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58997
-#EXTINF:-1 tvg-id="" tvg-name="CO004:WIN SPORT+" tvg-logo="" group-title="Colombia",CO004:WIN SPORT+
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/51316
-#EXTINF:-1 tvg-id="" tvg-name="LA077:Win Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA077WinSports.png" group-title="Latino",LA077:Win Sports
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57980
-
-
 #EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/discoverylatin-ame_big.jpg", DISCOVERY
 
-#EXTINF:-1 tvg-id="" tvg-name="LA027:Discovery Home Health LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA027DiscoveryHomeHealthLA.png" group-title="Latino",LA027:Discovery Home Health LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58030
-#EXTINF:-1 tvg-id="" tvg-name="LA028:Discovery LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA028DiscoveryLA.png" group-title="Latino",LA028:Discovery LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58029
-#EXTINF:-1 tvg-id="" tvg-name="LA029:Discovery Civilization" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA029DiscoveryCivilization.png" group-title="Latino",LA029:Discovery Civilization
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58028
-#EXTINF:-1 tvg-id="" tvg-name="LA030:Discovery ID LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA030DiscoveryIDLA.png" group-title="Latino",LA030:Discovery ID LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58027
-#EXTINF:-1 tvg-id="" tvg-name="LA032:Discovery Science LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA032DiscoveryScienceLA.png" group-title="Latino",LA032:Discovery Science LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58025
-#EXTINF:-1 tvg-id="" tvg-name="LA033:Discovery Teather" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA033DiscoveryTeather.png" group-title="Latino",LA033:Discovery Teather
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58024
-#EXTINF:-1 tvg-id="" tvg-name="LA034:Discovery TLC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA034DiscoveryTLC.png" group-title="Latino",LA034:Discovery TLC
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58023
-#EXTINF:-1 tvg-id="" tvg-name="LA035:Discovery Turbo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA035DiscoveryTurbo.png" group-title="Latino",LA035:Discovery Turbo
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58022
-#EXTINF:-1 tvg-id="" tvg-name="LA066:H2 LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA066H2LA.png" group-title="Latino",LA066:H2 LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57991
-EXTINF:-1 tvg-id="" tvg-name="LA071:History LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA071HistoryLA.png" group-title="Latino",LA071:History LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57986
-#EXTINF:-1 tvg-id="" tvg-name="LA074:ID LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA074IDLA.png" group-title="Latino",LA074:ID LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57983
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : NAT GEO
+http://mains.vip:2086/craigg/1Lurn7m3F1/67187
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY CHANNEL
+http://mains.vip:2086/craigg/1Lurn7m3F1/92605
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY EN ESPANOL
+http://mains.vip:2086/craigg/1Lurn7m3F1/66567
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY FAMILIA
+http://mains.vip:2086/craigg/1Lurn7m3F1/66566
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY HOME & HEALTH
+http://mains.vip:2086/craigg/1Lurn7m3F1/92603
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY ID
+http://mains.vip:2086/craigg/1Lurn7m3F1/98777
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY SCIENCE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92601
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY THEATER
+http://mains.vip:2086/craigg/1Lurn7m3F1/92600
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY TURBO
+http://mains.vip:2086/craigg/1Lurn7m3F1/92599
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY WORLD
+http://mains.vip:2086/craigg/1Lurn7m3F1/66651
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NAT GEO
+http://mains.vip:2086/craigg/1Lurn7m3F1/92553
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NAT GEO MUNDO
+http://mains.vip:2086/craigg/1Lurn7m3F1/66588
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NAT GEO WILD
+http://mains.vip:2086/craigg/1Lurn7m3F1/98788
 
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-JJ7Ca9iIo-Q/WUFwqoI1GfI/AAAAAAAADok/cGdGxU_QpvcSnsS9clbkeBF59VX3yQJvACLcBGAs/s1600/0.jpg", NATIONAL
-
-
-#EXTINF:-1 tvg-id="" tvg-name="LA081:NAT GEO Wild LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA081NATGEOWildLA.png" group-title="Latino",LA081:NAT GEO Wild LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57976
-#EXTINF:-1 tvg-id="" tvg-name="LA082:NAT GEO LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA082NATGEOLA.png" group-title="Latino",LA082:NAT GEO LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57975
-#EXTINF:-1 tvg-id="" tvg-name="LA083:Nick JR LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA083NickJRLA.png" group-title="Latino",LA083:Nick JR LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57974
-#EXTINF:-1 tvg-id="" tvg-name="LA084:Nicktoons LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA084NicktoonsLA.png" group-title="Latino",LA084:Nicktoons LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57973
-#EXTINF:-1 tvg-id="" tvg-name="LA085:Nick LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA085NickLA.png" group-title="Latino",LA085:Nick LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57972
-#EXTINF:-1 tvg-id="" tvg-name="LA280:Nick 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA280Nick2FHD.png" group-title="Latino",LA280:Nick 2 FHD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/59021
 
 #EXTINF:-1 tvg-logo="https://www.sarbidemusic.com/wp-content/uploads/2016/12/Logos-Canales-Distribuci%C3%B3n.png", MUSICA
 
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : MEGA
+http://mains.vip:2086/craigg/1Lurn7m3F1/67186
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ANTENA 3
+http://mains.vip:2086/craigg/1Lurn7m3F1/66548
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ASPIRE
+http://mains.vip:2086/craigg/1Lurn7m3F1/66549
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : BANDAMAX
+http://mains.vip:2086/craigg/1Lurn7m3F1/66552
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MTV HITS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92554
 
-#EXTINF:-1 tvg-id="" tvg-name="LA093:Tele Hit" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA093TeleHit.png" group-title="Latino",LA093:Tele Hit
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57964
-#EXTINF:-1 tvg-id="" tvg-name="LA094:Telemundo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA094Telemundo.png" group-title="Latino",LA094:Telemundo
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57963
-#EXTINF:-1 tvg-id="" tvg-name="LA095:Telemundo Int" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA095TelemundoInt.png" group-title="Latino",LA095:Telemundo Int
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57962
+
 
 #EXTINF:-1 tvg-logo="https://www.tuves.cl/wp-content/themes/tuves/images/canales-variedades.png", VARIEDADES 2
 
-#EXTINF:-1 tvg-id="" tvg-name="LA094:Telemundo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA094Telemundo.png" group-title="Latino",LA094:Telemundo
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57963
-#EXTINF:-1 tvg-id="" tvg-name="LA095:Telemundo Int" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA095TelemundoInt.png" group-title="Latino",LA095:Telemundo Int
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57962
-#EXTINF:-1 tvg-id="" tvg-name="LA096:Canal Disney" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA096CanalDisney.png" group-title="Latino",LA096:Canal Disney
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57961
-#EXTINF:-1 tvg-id="" tvg-name="LA097:Tele Visa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA097TeleVisa.png" group-title="Latino",LA097:Tele Visa
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57960
-#EXTINF:-1 tvg-id="" tvg-name="LA098:Paramount" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA098Paramount.png" group-title="Latino",LA098:Paramount
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57959
-#EXTINF:-1 tvg-id="" tvg-name="LA099:TLC LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA099TLCLA.png" group-title="Latino",LA099:TLC LA
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57958
-#EXTINF:-1 tvg-id="" tvg-name="LA100:TLnovelas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA100TLnovelas.png" group-title="Latino",LA100:TLnovelas
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57957
-#EXTINF:-1 tvg-id="" tvg-name="LA101:TNT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA101TNT.png" group-title="Latino",LA101:TNT
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57956
-#EXTINF:-1 tvg-id="" tvg-name="ARG067:TNT Sports HD" tvg-logo="" group-title="Argentina",ARG067:TNT Sports HD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/4968
-#EXTINF:-1 tvg-id="" tvg-name="LA102:TNT Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA102TNTSeries.png" group-title="Latino",LA102:TNT Series
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57955
-#EXTINF:-1 tvg-id="" tvg-name="LA109:TELEMUNDO 51 (Miami)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA109TELEMUNDO51(Miami).png" group-title="Latino",LA109:TELEMUNDO 51 (Miami)
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/59192
-#EXTINF:-1 tvg-id="" tvg-name="LA113:ACTION MAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA113ACTIONMAX.png" group-title="Latino",LA113:ACTION MAX
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/59188
-#EXTINF:-1 tvg-id="" tvg-name="LA118:El Salvador" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA118ElSalvador.png" group-title="Latino",LA118:El Salvador
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/59183
-#EXTINF:-1 tvg-id="" tvg-name="LA126:Curacao_TV Direct 13" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA126DWAmerica.png" group-title="Latino",LA126:Curacao_TV Direct 13
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/59175
-tvg-id="" tvg-name="LA245:CNN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA245CNN.png" group-title="Latino",LA245:CNN
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/59056
-#EXTINF:-1 tvg-id="" tvg-name="LA247:CNN ESPANOL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA247CNNESPANOL.png" group-title="Latino",LA247:CNN ESPANOL
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/59054
-#EXTINF:-1 tvg-id="" tvg-name="LA260:Cubavision (Cuba)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA260Cubavision(Cuba).png" group-title="Latino",LA260:Cubavision (Cuba)
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/59041
-#EXTINF:-1 tvg-id="" tvg-name="LA265:DHE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA265DHE.png" group-title="Latino",LA265:DHE
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/59036
-#EXTINF:-1 tvg-id="" tvg-name="LA299:EL TRECE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA299ELTRECEHD.png" group-title="Latino",LA299:EL TRECE HD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/59002
-#EXTINF:-1 tvg-id="" tvg-name="LA390:TV Globo Internacional" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA390TVGloboInternacional.png" group-title="Latino",LA390:TV Globo Internacional
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58911
-#EXTINF:-1 tvg-id="" tvg-name="LA404:MAX UP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA404MAXUP.png" group-title="Latino",LA404:MAX UP
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58897
-#EXTINF:-1 tvg-id="" tvg-name="LA410:Milenio TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA410MilenioTVHD.png" group-title="Latino",LA410:Milenio TV HD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58891
-#EXTINF:-1 tvg-id="" tvg-name="LA416:MoviePlex FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA416MoviePlexFHD.png" group-title="Latino",LA416:MoviePlex FHD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58885
-#EXTINF:-1 tvg-id="" tvg-name="LA423:Multimedios HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA423MultimediosHD.png" group-title="Latino",LA423:Multimedios HD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58878
-#EXTINF:-1 tvg-id="" tvg-name="LA424:Music Top HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA424MusicTopHD.png" group-title="Latino",LA424:Music Top HD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58877
-#EXTINF:-1 tvg-id="" tvg-name="LA426:TELEUNIVERSO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA426TELEUNIVERSO.png" group-title="Latino",LA426:TELEUNIVERSO
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58875
-#EXTINF:-1 tvg-id="" tvg-name="LA431:TV Quisqueya" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA431TVQuisqueya.png" group-title="Latino",LA431:TV Quisqueya
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58870
-#EXTINF:-1 tvg-id="" tvg-name="LA468:Bolivia TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA468BoliviaTV.png" group-title="Latino",LA468:Bolivia TV
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58833
-#EXTINF:-1 tvg-id="" tvg-name="LA473:Todo Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA473TodoNoticias.png" group-title="Latino",LA473:Todo Noticias
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58828
-#EXTINF:-1 tvg-id="" tvg-name="LA489:RCN Novelas HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA489RCNNovelasHD.png" group-title="Latino",LA489:RCN Novelas HD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58812
-#EXTINF:-1 tvg-id="" tvg-name="LA503:Univision (Puerto Rico)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA503RetroPlexFHD.png" group-title="Latino",LA503:Univision (Puerto Rico)
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58798
-#EXTINF:-1 tvg-id="" tvg-name="LA521:Showtime East FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA521ShowtimeEastFHD.png" group-title="Latino",LA521:Showtime East FHD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58780
-#EXTINF:-1 tvg-id="" tvg-name="LA522:SHOWTIME FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA522SHOWTIMEFHD.png" group-title="Latino",LA522:SHOWTIME FHD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58779
-#EXTINF:-1 tvg-id="" tvg-name="LA531:Starz Cinema FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA531StarzCinemaFHD.png" group-title="Latino",LA531:Starz Cinema FHD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58770
-#EXTINF:-1 tvg-id="" tvg-name="LA532:Starz Comedy FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA532StarzComedyFHD.png" group-title="Latino",LA532:Starz Comedy FHD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58769
-#EXTINF:-1 tvg-id="" tvg-name="LA534:Starz Encore Action FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA534StarzEncoreActionFHD.png" group-title="Latino",LA534:Starz Encore Action FHD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58767
-#EXTINF:-1 tvg-id="" tvg-name="LA535:Starz Encore Black FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA535StarzEncoreBlackFHD.png" group-title="Latino",LA535:Starz Encore Black FHD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58766
-#EXTINF:-1 tvg-id="" tvg-name="LA536:Starz Encore Classic FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA536StarzEncoreClassicFHD.png" group-title="Latino",LA536:Starz Encore Classic FHD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58765
-#EXTINF:-1 tvg-id="" tvg-name="LA537:Starz Encore Family FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA537StarzEncoreFamilyFHD.png" group-title="Latino",LA537:Starz Encore Family FHD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58764
-#EXTINF:-1 tvg-id="" tvg-name="LA538:Starz Encore FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA538StarzEncoreFHD.png" group-title="Latino",LA538:Starz Encore FHD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58763
-#EXTINF:-1 tvg-id="" tvg-name="LA539:Starz Encore Suspense FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA539StarzEncoreSuspenseFHD.png" group-title="Latino",LA539:Starz Encore Suspense FHD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58762
-#EXTINF:-1 tvg-id="" tvg-name="LA540:Starz Encore Western FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA540StarzEncoreWesternFHD.png" group-title="Latino",LA540:Starz Encore Western FHD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58761
-#EXTINF:-1 tvg-id="" tvg-name="LA541:Starz Family HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA541StarzFamilyHD.png" group-title="Latino",LA541:Starz Family HD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58760
-#EXTINF:-1 tvg-id="" tvg-name="LA542:Starz FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA542StarzFHD.png" group-title="Latino",LA542:Starz FHD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58759
-#EXTINF:-1 tvg-id="" tvg-name="LA543:Starz Kids & Family FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA543StarzKids&FamilyFHD.png" group-title="Latino",LA543:Starz Kids & Family FHD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58758
-#EXTINF:-1 tvg-id="" tvg-name="LA544:Starz West FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA544StarzWestFHD.png" group-title="Latino",LA544:Starz West FHD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58757
-#EXTINF:-1 tvg-id="" tvg-name="LA560:TELEFE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA560TELEFEHD.png" group-title="Latino",LA560:TELEFE HD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58741
-#EXTINF:-1 tvg-id="" tvg-name="LA566:Telemundo 51" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA566Telemundo51.png" group-title="Latino",LA566:Telemundo 51
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58735
-#EXTINF:-1 tvg-id="" tvg-name="LA600:Galavision" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA600Galavision.png" group-title="Latino",LA600:Galavision
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58701
-#EXTINF:-1 tvg-id="" tvg-name="LA606:TUDN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA606TUDN.png" group-title="Latino",LA606:TUDN
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58695
-#EXTINF:-1 tvg-id="" tvg-name="LA611:Telemundo Boston HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA611TelemundoBostonHD.png" group-title="Latino",LA611:Telemundo Boston HD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58690
-#EXTINF:-1 tvg-id="" tvg-name="LA633:UniMas West" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA633UniMasWest.png" group-title="Latino",LA633:UniMas West
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58668
-#EXTINF:-1 tvg-id="" tvg-name="LA651:TIGO SPORT " tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA651TIGOSPORT.png" group-title="Latino",LA651:TIGO SPORT 
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58650
-#EXTINF:-1 tvg-id="" tvg-name="LA652:ULTRA Film" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA652ULTRAFilm.png" group-title="Latino",LA652:ULTRA Film
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58649
-#EXTINF:-1 tvg-id="" tvg-name="LA659:Telemundo Chicago HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA659TelemundoChicagoHD.png" group-title="Latino",LA659:Telemundo Chicago HD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58642
-#EXTINF:-1 tvg-id="" tvg-name="LA662:Univision New York HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA662UnivisionNewYorkHD.png" group-title="Latino",LA662:Univision New York HD
-http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58639
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : TNT
+http://mains.vip:2086/craigg/1Lurn7m3F1/67203
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HOLA TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/67193
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : MEGA
+http://mains.vip:2086/craigg/1Lurn7m3F1/67186
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : NAT GEO
+http://mains.vip:2086/craigg/1Lurn7m3F1/67187
+
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : STUDIO UNIVERSAL
+http://mains.vip:2086/craigg/1Lurn7m3F1/67208
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : TNT
+http://mains.vip:2086/craigg/1Lurn7m3F1/67203
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : TV CHILE
+http://mains.vip:2086/craigg/1Lurn7m3F1/67199
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : TYC SPORTS
+http://mains.vip:2086/craigg/1Lurn7m3F1/67173
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : WARNER CHANNEL
+http://mains.vip:2086/craigg/1Lurn7m3F1/67210
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AMERICA TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/92628
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ANIMAL PLANET
+http://mains.vip:2086/craigg/1Lurn7m3F1/98774
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ANTENA 3
+http://mains.vip:2086/craigg/1Lurn7m3F1/66548
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ASPIRE
+http://mains.vip:2086/craigg/1Lurn7m3F1/66549
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AXN
+http://mains.vip:2086/craigg/1Lurn7m3F1/92627
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AYM SPORTS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92626
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AZ CORAZON
+http://mains.vip:2086/craigg/1Lurn7m3F1/92625
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AZTECA
+http://mains.vip:2086/craigg/1Lurn7m3F1/66551
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AZTECA UNO
+http://mains.vip:2086/craigg/1Lurn7m3F1/92623
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : BABY TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/92622
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : BANDAMAX
+http://mains.vip:2086/craigg/1Lurn7m3F1/66552
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CNN EN ESPANOL
+http://mains.vip:2086/craigg/1Lurn7m3F1/66553
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CNN INTERNACIONAL
+http://mains.vip:2086/craigg/1Lurn7m3F1/92611
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : COMEDY CENTRAL
+http://mains.vip:2086/craigg/1Lurn7m3F1/98776
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISTRITO COMEDIA
+http://mains.vip:2086/craigg/1Lurn7m3F1/92595
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : E!
+http://mains.vip:2086/craigg/1Lurn7m3F1/98779
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ECUADOR TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/66569
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ECUAVISA INTERNACIONAL
+http://mains.vip:2086/craigg/1Lurn7m3F1/66570
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : EL GOURMET
+http://mains.vip:2086/craigg/1Lurn7m3F1/92594
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ENLACE
+http://mains.vip:2086/craigg/1Lurn7m3F1/66571
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ESTRELLA TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/66572
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FM
+http://mains.vip:2086/craigg/1Lurn7m3F1/66573
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOOD NETWORK
+http://mains.vip:2086/craigg/1Lurn7m3F1/98783
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FORO TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/66574
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GALAVISION
+http://mains.vip:2086/craigg/1Lurn7m3F1/66578
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GARAGE TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/92579
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GLITZ
+http://mains.vip:2086/craigg/1Lurn7m3F1/92578
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GSN
+http://mains.vip:2086/craigg/1Lurn7m3F1/66577
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GUATEVISION
+http://mains.vip:2086/craigg/1Lurn7m3F1/92574
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HISTORY
+http://mains.vip:2086/craigg/1Lurn7m3F1/92567
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HISTORY 2
+http://mains.vip:2086/craigg/1Lurn7m3F1/92566
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HISTORY EN ESPANOL
+http://mains.vip:2086/craigg/1Lurn7m3F1/66582
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HITN
+http://mains.vip:2086/craigg/1Lurn7m3F1/66580
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HLN
+http://mains.vip:2086/craigg/1Lurn7m3F1/66581
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HOLA TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/66583
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : LAS ESTRELLAS
+http://mains.vip:2086/craigg/1Lurn7m3F1/66619
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : LIFETIME
+http://mains.vip:2086/craigg/1Lurn7m3F1/92563
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NOS PAIS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92545
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NTN24
+http://mains.vip:2086/craigg/1Lurn7m3F1/66587
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NUESTRA TELE
+http://mains.vip:2086/craigg/1Lurn7m3F1/66589
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : OUTERMAX
+http://mains.vip:2086/craigg/1Lurn7m3F1/92543
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : PASIONES
+http://mains.vip:2086/craigg/1Lurn7m3F1/66590
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : PERU MAGICO
+http://mains.vip:2086/craigg/1Lurn7m3F1/66591
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : PROMAR
+http://mains.vip:2086/craigg/1Lurn7m3F1/92540
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : RCN NOVELAS CO
+http://mains.vip:2086/craigg/1Lurn7m3F1/86839
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEAMAZONAS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92510
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELECENTRO
+http://mains.vip:2086/craigg/1Lurn7m3F1/66597
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEFE
+http://mains.vip:2086/craigg/1Lurn7m3F1/66598
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TNT
+http://mains.vip:2086/craigg/1Lurn7m3F1/92485
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TNT SERIES
+http://mains.vip:2086/craigg/1Lurn7m3F1/92484
+
+
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEMUNDO
+http://mains.vip:2086/craigg/1Lurn7m3F1/92508
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEMUNDO INTERNATIONAL
+http://mains.vip:2086/craigg/1Lurn7m3F1/92500
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEMUNDO WEST
+http://mains.vip:2086/craigg/1Lurn7m3F1/92492
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELENOVELAS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92491
+
+#EXTINF:-1 tvg-logo="https://tutorialesjm19.files.wordpress.com/2011/08/deportes.png", DEPORTES
+
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : TYC SPORTS
+http://mains.vip:2086/craigg/1Lurn7m3F1/67173
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AYM SPORTS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92626
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DIRECTTV SPORT
+http://mains.vip:2086/craigg/1Lurn7m3F1/92608
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DIRECTTV SPORT 1
+http://mains.vip:2086/craigg/1Lurn7m3F1/92607
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DIRECTTV SPORT 2
+http://mains.vip:2086/craigg/1Lurn7m3F1/92606
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",AR : FOX SPORTS PREMIUM
+http://mains.vip:2086/craigg/1Lurn7m3F1/67126
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",AR : GOL TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/67124
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : FOX SPORTS 2
+http://mains.vip:2086/craigg/1Lurn7m3F1/67169
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ESPN
+http://mains.vip:2086/craigg/1Lurn7m3F1/98780
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ESPN 2
+http://mains.vip:2086/craigg/1Lurn7m3F1/98781
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ESPN 3
+http://mains.vip:2086/craigg/1Lurn7m3F1/98782
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ESPN DEPORTES
+http://mains.vip:2086/craigg/1Lurn7m3F1/66568
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX SPORTS 1
+http://mains.vip:2086/craigg/1Lurn7m3F1/92584
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX SPORTS 2
+http://mains.vip:2086/craigg/1Lurn7m3F1/92583
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX SPORTS 3
+http://mains.vip:2086/craigg/1Lurn7m3F1/92582
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX SPORTS PREMIUM
+http://mains.vip:2086/craigg/1Lurn7m3F1/92581
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION DEPORTES
+http://mains.vip:2086/craigg/1Lurn7m3F1/21595
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : WIN SPORTS
+http://mains.vip:2086/craigg/1Lurn7m3F1/98797
+
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-lyvWozjT6oo/W3Hr5ILLaJI/AAAAAAAADs4/8il0mmD5hFYYss87vb3dLqjOIduQM0nSQCLcBGAs/s320/FluxusTV_Playlists.png", LISTAS FLUXUS
+
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : A&E
+http://mains.vip:2086/craigg/1Lurn7m3F1/98773
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ADN 40
+http://mains.vip:2086/craigg/1Lurn7m3F1/92629
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AMC
+http://mains.vip:2086/craigg/1Lurn7m3F1/98772
+
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HBO
+http://mains.vip:2086/craigg/1Lurn7m3F1/67176
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HBO 2
+http://mains.vip:2086/craigg/1Lurn7m3F1/67177
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HBO FAMILY
+http://mains.vip:2086/craigg/1Lurn7m3F1/67178
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HBO PLUS
+http://mains.vip:2086/craigg/1Lurn7m3F1/67179
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HBO SIGNATURE
+http://mains.vip:2086/craigg/1Lurn7m3F1/67180
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : STUDIO UNIVERSAL
+http://mains.vip:2086/craigg/1Lurn7m3F1/67208
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : TNT
+http://mains.vip:2086/craigg/1Lurn7m3F1/67203
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : WARNER CHANNEL
+http://mains.vip:2086/craigg/1Lurn7m3F1/67210
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AXN
+http://mains.vip:2086/craigg/1Lurn7m3F1/92627
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CINE ESTELAR
+http://mains.vip:2086/craigg/1Lurn7m3F1/66558
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CINE MEXICANO
+http://mains.vip:2086/craigg/1Lurn7m3F1/66559
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CINE NOSTALGIA
+http://mains.vip:2086/craigg/1Lurn7m3F1/66560
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CINE SONY
+http://mains.vip:2086/craigg/1Lurn7m3F1/66561
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CINEMAX
+http://mains.vip:2086/craigg/1Lurn7m3F1/92613
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : COMEDY CENTRAL
+http://mains.vip:2086/craigg/1Lurn7m3F1/98776
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DE PELICULA
+http://mains.vip:2086/craigg/1Lurn7m3F1/66563
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DE PELICULA CLASICO
+http://mains.vip:2086/craigg/1Lurn7m3F1/66564
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DESTINATION AMERICA
+http://mains.vip:2086/craigg/1Lurn7m3F1/66565
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DIGITAL QUINCE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92609
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX
+http://mains.vip:2086/craigg/1Lurn7m3F1/98784
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX ACTION
+http://mains.vip:2086/craigg/1Lurn7m3F1/92591
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX CINEMA
+http://mains.vip:2086/craigg/1Lurn7m3F1/66661
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX CLASSICS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92589
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX COMEDY
+http://mains.vip:2086/craigg/1Lurn7m3F1/92588
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX DEPORTES
+http://mains.vip:2086/craigg/1Lurn7m3F1/92587
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX FAMILY
+http://mains.vip:2086/craigg/1Lurn7m3F1/98785
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX MOVIES
+http://mains.vip:2086/craigg/1Lurn7m3F1/92586
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX SERIES
+http://mains.vip:2086/craigg/1Lurn7m3F1/92585
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FX
+http://mains.vip:2086/craigg/1Lurn7m3F1/98786
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FXM
+http://mains.vip:2086/craigg/1Lurn7m3F1/98787
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GOLDEN
+http://mains.vip:2086/craigg/1Lurn7m3F1/66670
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GOLDEN EDGE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92575
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO
+http://mains.vip:2086/craigg/1Lurn7m3F1/92572
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO 2
+http://mains.vip:2086/craigg/1Lurn7m3F1/92571
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO FAMILY
+http://mains.vip:2086/craigg/1Lurn7m3F1/92570
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO LATINO
+http://mains.vip:2086/craigg/1Lurn7m3F1/66579
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO PLUS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92569
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO SIGNATURE
+http://mains.vip:2086/craigg/1Lurn7m3F1/66678
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MAX PRIME
+http://mains.vip:2086/craigg/1Lurn7m3F1/92560
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MAX UP
+http://mains.vip:2086/craigg/1Lurn7m3F1/92559
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MILENIO TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/92558
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MOVIEMAX
+http://mains.vip:2086/craigg/1Lurn7m3F1/92556
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MOVIEPLEX
+http://mains.vip:2086/craigg/1Lurn7m3F1/92555
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : PARAMOUNT CHANNEL
+http://mains.vip:2086/craigg/1Lurn7m3F1/92542
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SHOWTIME
+http://mains.vip:2086/craigg/1Lurn7m3F1/92537
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SHOWTIME BEYOND
+http://mains.vip:2086/craigg/1Lurn7m3F1/92536
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SHOWTIME EAST
+http://mains.vip:2086/craigg/1Lurn7m3F1/92535
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SHOWTIME WEST
+http://mains.vip:2086/craigg/1Lurn7m3F1/92534
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SONY CHANNEL
+http://mains.vip:2086/craigg/1Lurn7m3F1/92533
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SPACE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92532
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ
+http://mains.vip:2086/craigg/1Lurn7m3F1/92531
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ COMEDY
+http://mains.vip:2086/craigg/1Lurn7m3F1/92528
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ EAST
+http://mains.vip:2086/craigg/1Lurn7m3F1/92527
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92525
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE ACTION
+http://mains.vip:2086/craigg/1Lurn7m3F1/92524
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE CLASSIC
+http://mains.vip:2086/craigg/1Lurn7m3F1/92522
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE ESPAÑOL
+http://mains.vip:2086/craigg/1Lurn7m3F1/56141
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE FAMILY
+http://mains.vip:2086/craigg/1Lurn7m3F1/92521
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE SUSPENSE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92520
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE WESTERN
+http://mains.vip:2086/craigg/1Lurn7m3F1/92519
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ WEST
+http://mains.vip:2086/craigg/1Lurn7m3F1/92516
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STUDIO UNIVERSAL
+http://mains.vip:2086/craigg/1Lurn7m3F1/92515
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA CINE
+http://mains.vip:2086/craigg/1Lurn7m3F1/98789
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA CLASICO
+http://mains.vip:2086/craigg/1Lurn7m3F1/98790
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA FAMILIA
+http://mains.vip:2086/craigg/1Lurn7m3F1/98791
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA FIESTA
+http://mains.vip:2086/craigg/1Lurn7m3F1/98792
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA FILM
+http://mains.vip:2086/craigg/1Lurn7m3F1/98793
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA MACHO
+http://mains.vip:2086/craigg/1Lurn7m3F1/98794
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA MEX
+http://mains.vip:2086/craigg/1Lurn7m3F1/98795
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA TAINMENT
+http://mains.vip:2086/craigg/1Lurn7m3F1/98796
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVERSO
+http://mains.vip:2086/craigg/1Lurn7m3F1/66603
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : WAPA AMERICA
+http://mains.vip:2086/craigg/1Lurn7m3F1/66610
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : WARNER
+http://mains.vip:2086/craigg/1Lurn7m3F1/92458
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : WE TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/66611
+
 
 #EXTINF:-1 group-title="LATIN AMERICA",RT Español
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
