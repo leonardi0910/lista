@@ -105,55 +105,6 @@ https://liveingesta118.cdnmedia.tv/bethesdalive/smil:live.smil/chunklist_b200000
 #EXTGRP: sin clasificar
 http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CO013:A3Series" tvg-logo="" group-title="Colombia",CO013:A3Series
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51307
-#EXTINF:-1 tvg-id="" tvg-name="CO014:Cablenoticias 24 HD" tvg-logo="" group-title="Colombia",CO014:Cablenoticias 24 HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51306
-#EXTINF:-1 tvg-id="" tvg-name="CO017:CANAL DE LAS ESTRELLAS" tvg-logo="" group-title="Colombia",CO017:CANAL DE LAS ESTRELLAS
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51303
-#EXTINF:-1 tvg-id="" tvg-name="CO018:Caracol Institucional HD" tvg-logo="" group-title="Colombia",CO018:Caracol Institucional HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51302
-#EXTINF:-1 tvg-id="" tvg-name="CO019:Canal Doce" tvg-logo="" group-title="Colombia",CO019:Canal Doce
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51301
-#EXTINF:-1 tvg-id="" tvg-name="CO020:Canal Wow TV" tvg-logo="" group-title="Colombia",CO020:Canal Wow TV
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51300
-#EXTINF:-1 tvg-id="" tvg-name="CO021:Top Latino" tvg-logo="" group-title="Colombia",CO021:Top Latino
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51299
-#EXTINF:-1 tvg-id="" tvg-name="CO022:RCN HD2" tvg-logo="" group-title="Colombia",CO022:RCN HD2
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51298
-#EXTINF:-1 tvg-id="" tvg-name="CO026:Senal Colombiana" tvg-logo="" group-title="Colombia",CO026:Senal Colombiana
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51294
-#EXTINF:-1 tvg-id="" tvg-name="CO031:Tele Vid HD" tvg-logo="" group-title="Colombia",CO031:Tele Vid HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51289
-#EXTINF:-1 tvg-id="" tvg-name="CO033:Tele Amiga" tvg-logo="" group-title="Colombia",CO033:Tele Amiga
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51287
-#EXTINF:-1 tvg-id="" tvg-name="CO034:Caracol 2" tvg-logo="" group-title="Colombia",CO034:Caracol 2
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51286
-#EXTINF:-1 tvg-id="" tvg-name="CO035:Miami Tv Colombia FHD" tvg-logo="" group-title="Colombia",CO035:Miami Tv Colombia FHD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51285
-#EXTINF:-1 tvg-id="" tvg-name="CO036:CARACOL INTERNACIONAL" tvg-logo="" group-title="Colombia",CO036:CARACOL INTERNACIONAL
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51284
-#EXTINF:-1 tvg-id="" tvg-name="CO040:Canal Acuario" tvg-logo="" group-title="Colombia",CO040:Canal Acuario
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51280
-#EXTINF:-1 tvg-id="" tvg-name="CO043:COMEDY CENTRAL" tvg-logo="" group-title="Colombia",CO043:COMEDY CENTRAL
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51277
-#EXTINF:-1 tvg-id="" tvg-name="CO045:Canal Uno HD" tvg-logo="" group-title="Colombia",CO045:Canal Uno HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51275
-#EXTINF:-1 tvg-id="" tvg-name="CO050:ICE" tvg-logo="" group-title="Colombia",CO050:ICE
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51270
-#EXTINF:-1 tvg-id="" tvg-name="CO051:RCN FHD" tvg-logo="" group-title="Colombia",CO051:RCN FHD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51269
-#EXTINF:-1 tvg-id="" tvg-name="CO052:RCN Novelas" tvg-logo="" group-title="Colombia",CO052:RCN Novelas
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51268
-#EXTINF:-1 tvg-id="" tvg-name="CO054:AXN" tvg-logo="" group-title="Colombia",CO054:AXN
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51266
-#EXTINF:-1 tvg-id="" tvg-name="CO055:El Tiempo HD" tvg-logo="" group-title="Colombia",CO055:El Tiempo HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51265
-#EXTINF:-1 tvg-id="" tvg-name="CO056:BBC WORLD NEWS" tvg-logo="" group-title="Colombia",CO056:BBC WORLD NEWS
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51264
-#EXTINF:-1 tvg-id="" tvg-name="CO057:SyFy" tvg-logo="" group-title="Colombia",CO057:SyFy
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51263
-
 
 
 #EXTINF:-1,MUSICA:Music Top Argentina www.achoapps.com
@@ -318,268 +269,202 @@ https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="45129" tvg-name="TV+" tvg-logo="https://lh3.googleusercontent.com/-OyqOBTEx-1E/XyA3AZwIgTI/AAAAAAAA3jQ/aDMZaLOx3mQuXBqjDKAF0X7dxExKFzawACK8BGAsYHg/s0/2020-07-28.png", TV+
 https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8?PlaylistM3UCL
 
+
 #EXTINF:-1 tvg-logo="https://www.tuves.cl/wp-content/themes/tuves/images/canales-infantiles.png", INFANTILES
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG010:DISNEY JUNIOR" tvg-logo="" group-title="Argentina",ARG010:DISNEY JUNIOR
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49742
-#EXTINF:-1 tvg-id="" tvg-name="ARG011:DISNEY XD" tvg-logo="" group-title="Argentina",ARG011:DISNEY XD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49741
-#EXTINF:-1 tvg-id="" tvg-name="ARG060:Pakapaka HD" tvg-logo="" group-title="Argentina",ARG060:Pakapaka HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49692
-#EXTINF:-1 tvg-id="" tvg-name="ARG055:TOONCAST HD" tvg-logo="" group-title="Argentina",ARG055:TOONCAST HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49697
-#EXTINF:-1 tvg-id="" tvg-name="ARG060:Pakapaka HD" tvg-logo="" group-title="Argentina",ARG060:Pakapaka HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49692
-#EXTINF:-1 tvg-id="" tvg-name="CO059:ToonCast" tvg-logo="" group-title="Colombia",CO059:ToonCast
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51262
-#EXTINF:-1 tvg-id="" tvg-name="CO059:ToonCast" tvg-logo="" group-title="Colombia",CO059:ToonCast
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51261
-#EXTINF:-1 tvg-id="nick.2.mx" tvg-name="MX076:NICK 2 HD" tvg-logo="" group-title="Mexico",MX076:NICK 2 HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51382
-#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="MX077:NICK HD" tvg-logo="" group-title="Mexico",MX077:NICK HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51381
-#EXTINF:-1 tvg-id="nicktoons.global.mx" tvg-name="MX078:NICKTOONS" tvg-logo="" group-title="Mexico",MX078:NICKTOONS
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51380
-#EXTINF:-1 tvg-id="canal.once.mx" tvg-name="MX079:Once Mexico" tvg-logo="" group-title="Mexico",MX079:Once Mexico
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51379
-#EXTINF:-1 tvg-id="babyfirst.mx" tvg-name="MX080:BABY FIRST" tvg-logo="" group-title="Mexico",MX080:BABY FIRST
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51378
-EXTINF:-1 tvg-id="boomerang.mx" tvg-name="MX085:BOOMERANG" tvg-logo="" group-title="Mexico",MX085:BOOMERANG
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51373
-
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png", IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 
 #EXTINF:0,PequeRadio TV
 #EXTGRP:unsorted
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/discoverylatin-ame_big.jpg", DISCOVERY
+
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: ANIMAL PLANET SD*" tvg-logo="" group-title="CULTURA",CULTURA: ANIMAL PLANET SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/34
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY CHANNEL SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY CHANNEL SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/35
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY CIVILIZATION SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY CIVILIZATION SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/36
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY H&H SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY H&H SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/37
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY SCIENCE SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY SCIENCE SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/38
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY THEATHER HD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY THEATHER HD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/39
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY TURBO SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY TURBO SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/40
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: H2 SD*" tvg-logo="" group-title="CULTURA",CULTURA: H2 SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/41
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: HISTORY SD*" tvg-logo="" group-title="CULTURA",CULTURA: HISTORY SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/42
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: ID SD*" tvg-logo="" group-title="CULTURA",CULTURA: ID SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/43
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: NAT GEO SD*" tvg-logo="" group-title="CULTURA",CULTURA: NAT GEO SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/44
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: NATGEO WILD  SD*" tvg-logo="" group-title="CULTURA",CULTURA: NATGEO WILD  SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/45
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: TLC SD*" tvg-logo="" group-title="CULTURA",CULTURA: TLC SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/46
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE GALAVISION" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE GALAVISION
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/48
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: ANTENA3 SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: ANTENA3 SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/49
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: AZ MUNDO SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: AZ MUNDO SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/50
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: COMEDY CENTRAL HD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: COMEDY CENTRAL HD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/51
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: DHE SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: DHE SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/52
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: DISTRITO COMEDIA TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: DISTRITO COMEDIA TP MX
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/53
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: E! SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: E! SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/54
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: EL GOURMET SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: EL GOURMET SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/55
 
 
 
 #EXTINF:-1 tvg-logo="https://www.sarbidemusic.com/wp-content/uploads/2016/12/Logos-Canales-Distribuci%C3%B3n.png", MUSICA
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG016:CANALDELAMUSICA" tvg-logo="" group-title="Argentina",ARG016:CANALDELAMUSICA
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49736
-#EXTINF:-1 tvg-id="" tvg-name="CO015:Cali TV" tvg-logo="" group-title="Colombia",CO015:Cali TV
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51305
-#EXTINF:-1 tvg-id="" tvg-name="CO035:Miami Tv Colombia FHD" tvg-logo="" group-title="Colombia",CO035:Miami Tv Colombia FHD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51285
-#EXTINF:-1 tvg-id="" tvg-name="CO038:Cantinazo" tvg-logo="" group-title="Colombia",CO038:Cantinazo
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51282
-#EXTINF:-1 tvg-id="" tvg-name="CO047:La Kalle" tvg-logo="" group-title="Colombia",CO047:La Kalle
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51273
-#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="MX016:Bandamax" tvg-logo="" group-title="Mexico",MX016:Bandamax
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51442
-#EXTINF:-1 tvg-id="telehit.plus.mx" tvg-name="MX090:Telehit Plus" tvg-logo="" group-title="Mexico",MX090:Telehit Plus
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51368
-#EXTINF:-1 tvg-id="" tvg-name="CAR016:DANCEHALL REGGAE" tvg-logo="" group-title="Caribbean",CAR016:DANCEHALL REGGAE
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/59529
-#EXTINF:-1 tvg-id="" tvg-name="ARG037:VH1" tvg-logo="" group-title="Argentina",ARG037:VH1
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49715
+#EXTINF:-1 group-title="LATIN AMERICA",MTV (Opt-1)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="CHILE",Portal Foxmix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",TVO San Vicente
+http://wow2.cl.digitalproserver.com/tvo/tvovivo/mp4:livestream1/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Cali TV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 group-title="PARAGUAY",Farra Play
+http://159.203.148.226/live/farra_low.m3u8
+#EXTINF:-1 group-title="COSTA RICA",88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="HONDURAS",Campus TV
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+#EXTINF:-1 group-title="VENEZUELA",Televisora de Oriente
+http://vcp1.myplaytv.com:1935/tvo/tvo/chunklist_w545582271.m3u8
+#EXTINF:-1 group-title="VENEZUELA",Vepaco TV (Opt-2)
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2073389661.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://advancescreenings.com/img/outlets/c/california_music_channel.jpg" group-title="Musica", California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1 tvg-id="530" tvg-logo="https://i.imgur.com/kDt8pzL.png" group-title="LATIN AMERICA",La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1 tvg-id="106791" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108972" tvg-name="Cibervision " tvg-logo="https://lh3.googleusercontent.com/-WjWVuyJWVMo/XzgVgnbtUBI/AAAAAAAA4TI/3mfIbpL5mBEbzKZVdsGW4gPqEhDdT3uYACK8BGAsYHg/s0/2020-08-15.jpg", Cibervision 
+http://108.175.14.125:1935/tdn/tdn/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108992" tvg-name="TV Exitos" tvg-logo="https://lh3.googleusercontent.com/-765JJbmZVrw/XzgeMh8uvoI/AAAAAAAA4WQ/zyqMKQn-IQMaaU9kW8bnuRnlQP-n_irrgCK8BGAsYHg/s0/2020-08-15.jpg", TV Exitos
+http://siglo21.dnsalias.com:8080/mylive/tvexitos/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="106784" tvg-name="TV Manabita" tvg-logo="https://lh3.googleusercontent.com/-DHXAZBBwwUY/Xzh760dVvBI/AAAAAAAA4cw/ux21bZrXsCQS1eKkFEM-NAg59yFdAMraQCK8BGAsYHg/s0/2020-08-15.jpg", TV Manabita
+http://europa.tucableip.com:8181/tvmanabita/live/tracks-v1a1/index.m3u8?PlaylistM3UCL
+#EXTINF: -1, LATINO:La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://www.tuves.cl/wp-content/themes/tuves/images/canales-variedades.png", VARIEDADES 2
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG002:CINEMAX" tvg-logo="" group-title="Argentina",ARG002:CINEMAX
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49750
-#EXTINF:-1 tvg-id="" tvg-name="ARG003:CIUDAD MAGAZINE" tvg-logo="" group-title="Argentina",ARG003:CIUDAD MAGAZINE
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49749
-#EXTINF:-1 tvg-id="" tvg-name="ARG004:MAX PRIME" tvg-logo="" group-title="Argentina",ARG004:MAX PRIME
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49748
-#EXTINF:-1 tvg-id="" tvg-name="ARG005:CNN EN ESPANIOL" tvg-logo="" group-title="Argentina",ARG005:CNN EN ESPANIOL
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49747
-#EXTINF:-1 tvg-id="" tvg-name="ARG006:C5N HD" tvg-logo="" group-title="Argentina",ARG006:C5N HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49746
-#EXTINF:-1 tvg-id="" tvg-name="ARG007:CNN" tvg-logo="" group-title="Argentina",ARG007:CNN
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49745
-#EXTINF:-1 tvg-id="" tvg-name="ARG009:COMEDY" tvg-logo="" group-title="Argentina",ARG009:COMEDY
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49743
-#EXTINF:-1 tvg-id="" tvg-name="ARG012:E!" tvg-logo="" group-title="Argentina",ARG012:E!
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49740
-#EXTINF:-1 tvg-id="" tvg-name="ARG013:FOX" tvg-logo="" group-title="Argentina",ARG013:FOX
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49739
-#EXTINF:-1 tvg-id="" tvg-name="ARG015:CINEAR" tvg-logo="" group-title="Argentina",ARG015:CINEAR
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49737
-#EXTINF:-1 tvg-id="" tvg-name="ARG017:FOX LIFE" tvg-logo="" group-title="Argentina",ARG017:FOX LIFE
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49735
-#EXTINF:-1 tvg-id="" tvg-name="ARG024:CINE AR HD" tvg-logo="" group-title="Argentina",ARG024:CINE AR HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49728
-#EXTINF:-1 tvg-id="" tvg-name="ARG025:CINE ARGENTINA" tvg-logo="" group-title="Argentina",ARG025:CINE ARGENTINA
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49727
-#EXTINF:-1 tvg-id="" tvg-name="ARG027:FOX PREMIUM ACTION" tvg-logo="" group-title="Argentina",ARG027:FOX PREMIUM ACTION
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49725
-#EXTINF:-1 tvg-id="" tvg-name="ARG028:FOX PREMIUM CLASSICS" tvg-logo="" group-title="Argentina",ARG028:FOX PREMIUM CLASSICS
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49724
-#EXTINF:-1 tvg-id="" tvg-name="ARG029:WARNER" tvg-logo="" group-title="Argentina",ARG029:WARNER
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49723
-#EXTINF:-1 tvg-id="" tvg-name="ARG030:FOX PREMIUM COMEDY" tvg-logo="" group-title="Argentina",ARG030:FOX PREMIUM COMEDY
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49722
-#EXTINF:-1 tvg-id="" tvg-name="ARG031:FOX PREMIUM FAMILY" tvg-logo="" group-title="Argentina",ARG031:FOX PREMIUM FAMILY
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49721
-#EXTINF:-1 tvg-id="" tvg-name="ARG032:FOX PREMIUM MOVIES" tvg-logo="" group-title="Argentina",ARG032:FOX PREMIUM MOVIES
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49720
-#EXTINF:-1 tvg-id="" tvg-name="ARG036:FOX PREMIUM SERIES" tvg-logo="" group-title="Argentina",ARG036:FOX PREMIUM SERIES
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49716
-#EXTINF:-1 tvg-id="" tvg-name="ARG040:UNIVERSAL" tvg-logo="" group-title="Argentina",ARG040:UNIVERSAL
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49712
-#EXTINF:-1 tvg-id="" tvg-name="ARG057:HBO 2" tvg-logo="" group-title="Argentina",ARG057:HBO 2
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49695
-#EXTINF:-1 tvg-id="" tvg-name="ARG059:HBO FAMILY" tvg-logo="" group-title="Argentina",ARG059:HBO FAMILY
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49693
-#EXTINF:-1 tvg-id="" tvg-name="ARG061:HBO PLUS" tvg-logo="" group-title="Argentina",ARG061:HBO PLUS
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49691
-#EXTINF:-1 tvg-id="" tvg-name="ARG064:TNT SERIES HD" tvg-logo="" group-title="Argentina",ARG064:TNT SERIES HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49688
-#EXTINF:-1 tvg-id="" tvg-name="ARG065:TNT HD" tvg-logo="" group-title="Argentina",ARG065:TNT HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49687
-#EXTINF:-1 tvg-id="" tvg-name="ARG070:PARAMOUNT" tvg-logo="" group-title="Argentina",ARG070:PARAMOUNT
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49682
-#EXTINF:-1 tvg-id="azteca.cinema.mx" tvg-name="MX006:Azteca Cinema FHD" tvg-logo="" group-title="Mexico",MX006:Azteca Cinema FHD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51452
-#EXTINF:-1 tvg-id="comedy.central.mx" tvg-name="MX028:COMEDY CENTRAL HD" tvg-logo="" group-title="Mexico",MX028:COMEDY CENTRAL HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51430
-#EXTINF:-1 tvg-id="de.pelicula.mx" tvg-name="MX029:DE PELICULA  HD" tvg-logo="" group-title="Mexico",MX029:DE PELICULA  HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51429
-#EXTINF:-1 tvg-id="fox.mx" tvg-name="MX047:FOX HD" tvg-logo="" group-title="Mexico",MX047:FOX HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51411
-#EXTINF:-1 tvg-id="fox.life.mx" tvg-name="MX048:Fox Life" tvg-logo="" group-title="Mexico",MX048:Fox Life
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51410
-#EXTINF:-1 tvg-id="fox.premium.action.east.mx" tvg-name="MX049:Fox Premium Action" tvg-logo="" group-title="Mexico",MX049:Fox Premium Action
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51409
-#EXTINF:-1 tvg-id="e.entertainment.mexico.mx" tvg-name="MX050:E! Entertainment HD" tvg-logo="" group-title="Mexico",MX050:E! Entertainment HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51408
-#EXTINF:-1 tvg-id="antena.3.mexico.mx" tvg-name="MX051:ANTENA3" tvg-logo="" group-title="Mexico",MX051:ANTENA3
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51407
-#EXTINF:-1 tvg-id="fox.premium.family.mx" tvg-name="MX052:Distrito Comedia" tvg-logo="" group-title="Mexico",MX052:Distrito Comedia
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51406
-#EXTINF:-1 tvg-id="fox.premium.movies.east.mx" tvg-name="MX053:Fox Premium Movies" tvg-logo="" group-title="Mexico",MX053:Fox Premium Movies
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51405
-#EXTINF:-1 tvg-id="fox.premium.series.west.mx" tvg-name="MX054:Fox Premium Series" tvg-logo="" group-title="Mexico",MX054:Fox Premium Series
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51404
-#EXTINF:-1 tvg-id="fox.premium.series.west.mx" tvg-name="MX055:FOX SERIES HD" tvg-logo="" group-title="Mexico",MX055:FOX SERIES HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51403
-#EXTINF:-1 tvg-id="" tvg-name="MX059:FXM HD" tvg-logo="" group-title="Mexico",MX059:FXM HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51399
-#EXTINF:-1 tvg-id="axn.mx" tvg-name="MX060:AXN" tvg-logo="" group-title="Mexico",MX060:AXN
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51398
-#EXTINF:-1 tvg-id="" tvg-name="MX061:AZTECA 1" tvg-logo="" group-title="Mexico",MX061:AZTECA 1
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51397
-#EXTINF:-1 tvg-id="golden.edge.mx" tvg-name="MX062:GOLDEN EDGE HD" tvg-logo="" group-title="Mexico",MX062:GOLDEN EDGE HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51396
-#EXTINF:-1 tvg-id="golden.mx" tvg-name="MX063:GOLDEN HD" tvg-logo="" group-title="Mexico",MX063:GOLDEN HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51395
-#EXTINF:-1 tvg-id="" tvg-name="CAR004:FOX PREMIUM ACTION EAST" tvg-logo="" group-title="Caribbean",CAR004:FOX PREMIUM ACTION EAST
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/59541
-#EXTINF:-1 tvg-id="" tvg-name="CAR005:FOX PREMIUM COMEDY" tvg-logo="" group-title="Caribbean",CAR005:FOX PREMIUM COMEDY
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/59540
-#EXTINF:-1 tvg-id="" tvg-name="CAR006:BET GOSPEL" tvg-logo="" group-title="Caribbean",CAR006:BET GOSPEL
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/59539
-#EXTINF:-1 tvg-id="" tvg-name="CAR007:FOX PREMIUM MOVIES EAST" tvg-logo="" group-title="Caribbean",CAR007:FOX PREMIUM MOVIES EAST
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/59538
-#EXTINF:-1 tvg-id="" tvg-name="CAR008:FOX PREMIUM MOVIES EAST" tvg-logo="" group-title="Caribbean",CAR008:FOX PREMIUM MOVIES EAST
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/59537
-#EXTINF:-1 tvg-id="" tvg-name="CAR009:HALLMARK CHANNEL" tvg-logo="" group-title="Caribbean",CAR009:HALLMARK CHANNEL
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/59536
-#EXTINF:-1 tvg-id="" tvg-name="CAR056:CANAL SONY" tvg-logo="" group-title="Caribbean",CAR056:CANAL SONY
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/59489
-#EXTINF:-1 tvg-id="" tvg-name="ARG033:El Trece" tvg-logo="" group-title="Argentina",ARG033:El Trece
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49719
+
+
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/antena3/picture?width=320&height=320" group-title="Generalistas", Antena 3 HD www.m3ugratis.com
+https://livestartover.atresmedia.com/antena3/master.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Ready TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1 group-title="MEXICO",ADN 40
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 4 Saltillo
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Justicia TV (Opt-2)
+https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1760841144.m3u8
+#EXTINF:-1 group-title="MEXICO",Sipse TV Cancun
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 13 La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",TeleNord Corrientes
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",UTV San Clemente
+http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="COLOMBIA",UAO Play
+https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
+#EXTINF:-1 group-title="PERU",Central TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 group-title="PERU",Panamericana TV
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",HM TV 33
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Super TV 55
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Telenord 10 (Opt-1)
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Telenord 12 (Opt-1)
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-Hechos-Ecuador.jpg" group-title="ECUADOR",Hechos Ecuador
+http://37.187.7.106/hechostv/live.m3u8
+#EXTINF:-1 tvg-id="106773" tvg-name="Canal Institucional" tvg-logo="https://lh3.googleusercontent.com/-7A8sit9InV0/XzghOGQu8QI/AAAAAAAA4X4/9FutdpnVfwg0pZ6e258mTpljbB1RtHvagCK8BGAsYHg/s0/2020-08-15.png", Canal Institucional
+https://live-edge-lon-1.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2023/live-1500/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108666" tvg-name="Caracol" tvg-logo="https://lh3.googleusercontent.com/-cnEF-Jb4oZk/XzghpFYoQLI/AAAAAAAA4YE/syrJvA2xcmwQRvs5Df5FlbVl40HBIRUeQCK8BGAsYHg/s0/2020-08-15.jpg", Caracol
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="106778" tvg-name="TV Agro" tvg-logo="https://lh3.googleusercontent.com/-bYWyyOcC2x4/XzgjJoWSgjI/AAAAAAAA4ZI/qdACJcxyvH0GPd6j7ptRXf-ZksfqKlIzQCK8BGAsYHg/s0/2020-08-15.jpg", TV Agro
+http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108988" tvg-name="Farovision" tvg-logo="https://lh3.googleusercontent.com/-uim4E6l-Qno/XzgV0SohEtI/AAAAAAAA4TY/Kyj2EYmEWsgOf-9yObXMrT5G4uXkxdMMgCK8BGAsYHg/s0/2020-08-15.png", Farovision
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108979" tvg-name="GDM" tvg-logo="https://lh3.googleusercontent.com/-Ofjf3c7mMcY/XzgWEMrJzBI/AAAAAAAA4Tg/iitP9E6Zh_o1xom-yLDTDOkURHbvl-lRgCK8BGAsYHg/s0/2020-08-15.png", GDM
+https://cm.hostlagarto.com:4445/gdmstudiotv/gdmstudiotv.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108958" tvg-name="Megavision" tvg-logo="https://lh3.googleusercontent.com/-jxMdnwq3fxw/XzgSNxgvHSI/AAAAAAAA4Rw/eev6AGnJag8MDN1kt76lQwfraDPAIsnDACK8BGAsYHg/s0/2020-08-15.png", Megavision
+http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108989" tvg-name="Musavision" tvg-logo="https://lh3.googleusercontent.com/-vqvx9FsfLk0/XzgWl2BgDoI/AAAAAAAA4Tw/j9hiiFJmW9cmkMKjRM4-v9VxR8eQfONawCK8BGAsYHg/s0/2020-08-15.jpg", Musavision
+https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108950" tvg-name="Telecanal 28" tvg-logo="https://lh3.googleusercontent.com/-D9rpmxbwhO8/XzgcGOwfAUI/AAAAAAAA4VI/xgju0xICu_cmO620DoxlajfYrXwVPoEDwCK8BGAsYHg/s0/2020-08-15.jpg", Telecanal 28
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108973" tvg-name="Telecibao" tvg-logo="https://lh3.googleusercontent.com/-SNcmUEQMH_8/XzgcTFn6F_I/AAAAAAAA4VQ/uLAvXE8GMFInptHJzAYr3beBjiqc5ABAwCK8BGAsYHg/s0/2020-08-15.jpg", Telecibao
+https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108946" tvg-name="Telenord 8" tvg-logo="https://lh3.googleusercontent.com/-P4P3Fo23ruc/XzgcmLYJ46I/AAAAAAAA4Vc/0PbZbLJIjckXdsj_Wca-n7D7QS4GCEiYwCK8BGAsYHg/s0/2020-08-15.jpg", Telenord 8
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108945" tvg-name="Telenord 10" tvg-logo="https://lh3.googleusercontent.com/-w36Bp5Kua6w/Xzgcs8BkqPI/AAAAAAAA4Vg/delKewJS1gwLtPPQZDSb2q7ZWBwz4mfBACK8BGAsYHg/s0/2020-08-15.png", Telenord 10
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108937" tvg-name="TVS TV" tvg-logo="https://lh3.googleusercontent.com/-ki8jqcwmGP0/Xzgef3ebeoI/AAAAAAAA4Wc/Ulbicz-Ye8sSPGlzK7DxMOomCLnxa9tOgCK8BGAsYHg/s0/2020-08-15.png", TVS TV
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://tutorialesjm19.files.wordpress.com/2011/08/deportes.png", DEPORTES
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG005:CNN EN ESPANIOL" tvg-logo="" group-title="Argentina",ARG005:CNN EN ESPANIOL
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49747
-#EXTINF:-1 tvg-id="" tvg-name="ARG006:C5N HD" tvg-logo="" group-title="Argentina",ARG006:C5N HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49746
-#EXTINF:-1 tvg-id="" tvg-name="ARG007:CNN" tvg-logo="" group-title="Argentina",ARG007:CNN
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49745
-#EXTINF:-1 tvg-id="" tvg-name="ARG023:FOX NEWS" tvg-logo="" group-title="Argentina",ARG023:FOX NEWS
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49729
-#EXTINF:-1 tvg-id="" tvg-name="ARG045:ESPN 2 HD" tvg-logo="" group-title="Argentina",ARG045:ESPN 2 HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49707
-#EXTINF:-1 tvg-id="" tvg-name="ARG046:ESPN 3 HD" tvg-logo="" group-title="Argentina",ARG046:ESPN 3 HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49706
-#EXTINF:-1 tvg-id="" tvg-name="ARG048:ESPN" tvg-logo="" group-title="Argentina",ARG048:ESPN
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49704
-#EXTINF:-1 tvg-id="" tvg-name="ARG049:FOX SPORTS HD" tvg-logo="" group-title="Argentina",ARG049:FOX SPORTS HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49703
-#EXTINF:-1 tvg-id="" tvg-name="ARG050:FOX SPORTS Premium HD" tvg-logo="" group-title="Argentina",ARG050:FOX SPORTS Premium HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49702
-#EXTINF:-1 tvg-id="" tvg-name="ARG051:Garage TV" tvg-logo="" group-title="Argentina",ARG051:Garage TV
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49701
-#EXTINF:-1 tvg-id="" tvg-name="ARG052:GOL TV HD" tvg-logo="" group-title="Argentina",ARG052:GOL TV HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49700
-#EXTINF:-1 tvg-id="" tvg-name="ARG062:FOX Sports 1 HD" tvg-logo="" group-title="Argentina",ARG062:FOX Sports 1 HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49690
-#EXTINF:-1 tvg-id="" tvg-name="ARG067:TNT Sports HD" tvg-logo="" group-title="Argentina",ARG067:TNT Sports HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49685
-#EXTINF:-1 tvg-id="" tvg-name="ARG073:FOX Sports 3 HD" tvg-logo="" group-title="Argentina",ARG073:FOX Sports 3 HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49679
-#EXTINF:-1 tvg-id="" tvg-name="ARG074:TyC Sports FHD" tvg-logo="" group-title="Argentina",ARG074:TyC Sports FHD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49678
-#EXTINF:-1 tvg-id="" tvg-name="ARG077:FOX Sports 2 HD" tvg-logo="" group-title="Argentina",ARG077:FOX Sports 2 HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/49675
-#EXTINF:-1 tvg-id="" tvg-name="CO003:DirectTV Sports 2" tvg-logo="" group-title="Colombia",CO003:DirectTV Sports 2
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51317
 #EXTINF:-1 tvg-id="" tvg-name="CO004:WIN SPORT+" tvg-logo="" group-title="Colombia",CO004:WIN SPORT+
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51316
+http://chu2.coolmyvip.club:8880/iptvtest039/76090543/51316
 #EXTINF:-1 tvg-id="" tvg-name="CO007:WinSports" tvg-logo="" group-title="Colombia",CO007:WinSports
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51313
-#EXTINF:-1 tvg-id="" tvg-name="CO008:CLARO SPORT" tvg-logo="" group-title="Colombia",CO008:CLARO SPORT
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51312
-#EXTINF:-1 tvg-id="" tvg-name="CO009:NTN24" tvg-logo="" group-title="Colombia",CO009:NTN24
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51311
-#EXTINF:-1 tvg-id="" tvg-name="CO010:Cable Noticias" tvg-logo="" group-title="Colombia",CO010:Cable Noticias
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51310
+http://chu2.coolmyvip.club:8880/iptvtest039/76090543/51313
 #EXTINF:-1 tvg-id="" tvg-name="CO011:DirectTV Sports Plus" tvg-logo="" group-title="Colombia",CO011:DirectTV Sports Plus
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51309
+http://chu2.coolmyvip.club:8880/iptvtest039/76090543/51309
 #EXTINF:-1 tvg-id="" tvg-name="CO012:Win Sports HD" tvg-logo="" group-title="Colombia",CO012:Win Sports HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51308
-#EXTINF:-1 tvg-id="" tvg-name="CO023:CLARO SPORT" tvg-logo="" group-title="Colombia",CO023:CLARO SPORT
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51297
+http://chu2.coolmyvip.club:8880/iptvtest039/76090543/51308
 #EXTINF:-1 tvg-id="" tvg-name="CO028:DirectTV Sports 1" tvg-logo="" group-title="Colombia",CO028:DirectTV Sports 1
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51292
-#EXTINF:-1 tvg-id="" tvg-name="CO066:DirectTV Sports" tvg-logo="" group-title="Colombia",CO066:DirectTV Sports
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51194
-#EXTINF:-1 tvg-id="" tvg-name="PE012:Hipodromo Monterrico HD" tvg-logo="" group-title="Peru",PE012:Hipodromo Monterrico HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978
-#EXTINF:-1 tvg-id="" tvg-name="PE015:GOL PERU HD" tvg-logo="" group-title="Peru",PE015:GOL PERU HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51336
-#EXTINF:-1 tvg-id="" tvg-name="PE016:GOL TV" tvg-logo="" group-title="Peru",PE016:GOL TV
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51335
-#EXTINF:-1 tvg-id="aym.sports.mx" tvg-name="MX003:AYM Sports" tvg-logo="" group-title="Mexico",MX003:AYM Sports
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51455
+http://chu2.coolmyvip.club:8880/iptvtest039/76090543/51292
+#EXTINF:-1 tvg-id="" tvg-name="CO061:Fox Sports 2" tvg-logo="" group-title="Colombia",CO061:Fox Sports 2
+http://chu2.coolmyvip.club:8880/iptvtest039/76090543/51259
+#EXTINF:-1 tvg-id="" tvg-name="CO065:Telecaribe Deportes FHD" tvg-logo="" group-title="Colombia",CO065:Telecaribe Deportes FHD
+http://chu2.coolmyvip.club:8880/iptvtest039/76090543/51207
 #EXTINF:-1 tvg-id="espn.2.mx" tvg-name="MX038:ESPN 2 HD" tvg-logo="" group-title="Mexico",MX038:ESPN 2 HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51420
+http://chu2.coolmyvip.club:8880/iptvtest039/76090543/51420
 #EXTINF:-1 tvg-id="espn.3.mx" tvg-name="MX039:ESPN 3 HD" tvg-logo="" group-title="Mexico",MX039:ESPN 3 HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51419
-#EXTINF:-1 tvg-id="a.e.mexico.mx" tvg-name="MX040:A&E" tvg-logo="" group-title="Mexico",MX040:A&E
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51418
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="MX041:ESPN NETWORK" tvg-logo="" group-title="Mexico",MX041:ESPN NETWORK
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51417
+http://chu2.coolmyvip.club:8880/iptvtest039/76090543/51419
 #EXTINF:-1 tvg-id="espn+.mx" tvg-name="MX042:ESPN Plus" tvg-logo="" group-title="Mexico",MX042:ESPN Plus
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51416
-#EXTINF:-1 tvg-id="" tvg-name="MX043:ESPN U HD" tvg-logo="" group-title="Mexico",MX043:ESPN U HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51415
+http://chu2.coolmyvip.club:8880/iptvtest039/76090543/51416
 #EXTINF:-1 tvg-id="fox.sports.mx" tvg-name="MX056:FOX SPORTS 1 HD" tvg-logo="" group-title="Mexico",MX056:FOX SPORTS 1 HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51402
+http://chu2.coolmyvip.club:8880/iptvtest039/76090543/51402
 #EXTINF:-1 tvg-id="fox.sports.2.mx" tvg-name="MX057:FOX SPORTS 2 HD" tvg-logo="" group-title="Mexico",MX057:FOX SPORTS 2 HD
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51401
-#EXTINF:-1 tvg-id="fox.sports.3.mx" tvg-name="MX058:FOX SPORTS 3" tvg-logo="" group-title="Mexico",MX058:FOX SPORTS 3
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51400
-#EXTINF:-1 tvg-id="" tvg-name="CAR002:FIGHT SPORTS" tvg-logo="" group-title="Caribbean",CAR002:FIGHT SPORTS
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/59543
-#EXTINF:-1 tvg-id="" tvg-name="CAR010:TVJ Sports Network" tvg-logo="" group-title="Caribbean",CAR010:TVJ Sports Network
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/59535
-#EXTINF:-1 tvg-id="" tvg-name="CAR011:ESPN" tvg-logo="" group-title="Caribbean",CAR011:ESPN
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/59534
+http://chu2.coolmyvip.club:8880/iptvtest039/76090543/51401
+#EXTINF:-1 tvg-id="" tvg-name="MX075:Azteca Deportes" tvg-logo="" group-title="Mexico",MX075:Azteca Deportes
+http://chu2.coolmyvip.club:8880/iptvtest039/76090543/51383
 #EXTINF:-1 tvg-id="" tvg-name="CAR013:ESPN 2" tvg-logo="" group-title="Caribbean",CAR013:ESPN 2
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/59532
-#EXTINF:-1 tvg-id="" tvg-name="CO004:WIN SPORT+" tvg-logo="" group-title="Colombia",CO004:WIN SPORT+
-http://chu2.coolmyvip.club:8880/iptvtest037/78680978/51316
+http://chu2.coolmyvip.club:8880/iptvtest039/76090543/59532
+
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-lyvWozjT6oo/W3Hr5ILLaJI/AAAAAAAADs4/8il0mmD5hFYYss87vb3dLqjOIduQM0nSQCLcBGAs/s320/FluxusTV_Playlists.png", LISTAS FLUXUS
@@ -600,3 +485,144 @@ http://184.154.28.210:1935/canal4/canal4/live.m3u8
 http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
 #EXTINF:-1 group-title="CHILE",Gracia TV
 http://v3.tustreaming.cl/graciatv/live1/index.m3u8?fluxustv.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/jl1Nnd4.png", TV Galicia America
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="109763" tvg-name="Educa TV" tvg-logo="https://lh3.googleusercontent.com/-gwVSG0Gv_VY/XzxqczgyXhI/AAAAAAAA4pA/P26xKeDaPZcrzl5WvvYymInXCZJRU3L3wCK8BGAsYHg/s0/2020-08-18.png", Educa TV
+https://cloud37.ecuatel.com/educa/educa/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/8-80623_transparent-movies-logo-png-movies-logo-transparent-png.png", canales movies
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA:  DINAMITA SD*" tvg-logo="" group-title="CINEMA",CINEMA:  DINAMITA SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/1
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA:  TCM SD*" tvg-logo="" group-title="CINEMA",CINEMA:  TCM SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/2
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: AMC SD*" tvg-logo="" group-title="CINEMA",CINEMA: AMC SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/3
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: AZTECA CINEMA" tvg-logo="" group-title="CINEMA",CINEMA: AZTECA CINEMA
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/4
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CINE CANAL SD*" tvg-logo="" group-title="CINEMA",CINEMA: CINE CANAL SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/5
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CINE LATINO SD*" tvg-logo="" group-title="CINEMA",CINEMA: CINE LATINO SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/6
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CINEMAX SD*" tvg-logo="" group-title="CINEMA",CINEMA: CINEMAX SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/7
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CLARO CINEMA SD*" tvg-logo="" group-title="CINEMA",CINEMA: CLARO CINEMA SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: DE PELICULA PLUS" tvg-logo="" group-title="CINEMA",CINEMA: DE PELICULA PLUS
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/9
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: DE PELICULA TP MX" tvg-logo="" group-title="CINEMA",CINEMA: DE PELICULA TP MX
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/10
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX ACTION SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX ACTION SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/11
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX CLASICO SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX CLASICO SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/14
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX COMEDY SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX COMEDY SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/15
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX FAMYLY SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX FAMYLY SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/16
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX MOVIES SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX MOVIES SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/17
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX SERIES SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX SERIES SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/18
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: GOLDEN PREMIER 1" tvg-logo="" group-title="CINEMA",CINEMA: GOLDEN PREMIER 1
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/19
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: GOLDEN SD*" tvg-logo="" group-title="CINEMA",CINEMA: GOLDEN SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/20
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO 1 SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO 1 SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/21
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO 2 SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO 2 SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/22
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO Family SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO Family SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/23
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO MUNDI" tvg-logo="" group-title="CINEMA",CINEMA: HBO MUNDI
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/24
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO Plus SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO Plus SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/25
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO XTREAME SD *" tvg-logo="" group-title="CINEMA",CINEMA: HBO XTREAME SD *
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/26
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: MULTICINEMA SD*" tvg-logo="" group-title="CINEMA",CINEMA: MULTICINEMA SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/27
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: MULTIPREMIER SD*" tvg-logo="" group-title="CINEMA",CINEMA: MULTIPREMIER SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/28
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: PARAMOUNT SD*" tvg-logo="" group-title="CINEMA",CINEMA: PARAMOUNT SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/29
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: SPACE SD*" tvg-logo="" group-title="CINEMA",CINEMA: SPACE SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/30
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: STUDIO UNIVERSAL SD*" tvg-logo="" group-title="CINEMA",CINEMA: STUDIO UNIVERSAL SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/31
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: SYFY*" tvg-logo="" group-title="CINEMA",CINEMA: SYFY*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/32
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: TNT SD*" tvg-logo="" group-title="CINEMA",CINEMA: TNT SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/33
+
+#EXTINF:-1 tvg-logo="", canales variados
+
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: ESTRELLATV" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: ESTRELLATV
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/65
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: FASHION ONE SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: FASHION ONE SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/56
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: FILM & ARTS SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: FILM & ARTS SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/57
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: FOOD NETWORK TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: FOOD NETWORK TP MX
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/58
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: HOLA !TV SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: HOLA !TV SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/59
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: LIFE TIME SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: LIFE TIME SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/60
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: MAS CHIC SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: MAS CHIC SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/61
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: TL NOVELAS TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: TL NOVELAS TP MX
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/62
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: UNICABLE TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: UNICABLE TP MX
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/63
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO: FOX LIFE TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO: FOX LIFE TP MX
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/64
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="" group-title="ENTRETENIMIENTO",FOX LIFE
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/66
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Baby TV*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Baby TV*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/80
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: BIT ME TP MX" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: BIT ME TP MX
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/89
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Boomerang*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Boomerang*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/81
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Discovery Kids SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Discovery Kids SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/82
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney JR SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney JR SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/84
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/83
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney XD SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney XD SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/85
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Nat Geo Kids SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Nat Geo Kids SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/86
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Nick Jr SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Nick Jr SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/87
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Nickelodeon SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Nickelodeon SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/88
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: TOONCAST TP MX" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: TOONCAST TP MX
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/90
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: A&E SD*" tvg-logo="" group-title="SERIES",SERIE: A&E SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/67
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: A3SERIES" tvg-logo="" group-title="SERIES",SERIE: A3SERIES
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/68
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: AXN SD*" tvg-logo="" group-title="SERIES",SERIE: AXN SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/69
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: EURO Channel SD*" tvg-logo="" group-title="SERIES",SERIE: EURO Channel SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/70
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: FOX SD *" tvg-logo="" group-title="SERIES",SERIE: FOX SD *
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/71
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: FX Movies SD*" tvg-logo="" group-title="SERIES",SERIE: FX Movies SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/72
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: FX SD*" tvg-logo="" group-title="SERIES",SERIE: FX SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/73
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: FXM TP MX" tvg-logo="" group-title="SERIES",SERIE: FXM TP MX
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/74
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: SONY SD*" tvg-logo="" group-title="SERIES",SERIE: SONY SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/76
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: TNT SERIES*" tvg-logo="" group-title="SERIES",SERIE: TNT SERIES*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/77
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: UNIVERSAL TV SD*" tvg-logo="" group-title="SERIES",SERIE: UNIVERSAL TV SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/78
+#EXTINF:-1 tvg-id="" tvg-name="SERIES: WARNER SD*" tvg-logo="" group-title="SERIES",SERIES: WARNER SD*
+http://zufreelist.net:8080/kJPWLlY2Me/jI46HBi5nU/79
